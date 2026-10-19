@@ -1,0 +1,660 @@
+---
+title: "Analysis of honey bee wing shape in southwestern Asia"
+subtitle: "<https://github.com/DrawWing/Apis-mellifera-Asia>"
+author: 
+  - name: "Julita Machlowska"
+    affiliation: University of Agriculture in Krakow, Poland
+    orcid: 0000-0001-9951-9248
+  - name: "Irfan Kandemir"
+    affiliation: Ankara University, Türkiye
+    orcid: 0000-0002-2888-1044
+  - name: "Ayça Özkan Koca"
+    affiliation: Maltepe University, Türkiye
+    orcid: 0000-0001-6172-203X
+  - name: "Vakhtang Kakhniashvili"
+    affiliation: Georgian Beekeepers Union, Georgia
+    orcid: 0009-0002-5732-0438
+  - name: "Yehya Alattal"
+    affiliation: King Saud University, Saudi Arabia 
+    orcid: 0000-0002-8164-7636
+  - name: "Ahmad Alghamdi"
+    affiliation: King Saud University, Saudi Arabia 
+  - name: "Adam Tofilski"
+    affiliation: University of Agriculture in Krakow, Poland
+    orcid: 0000-0002-3898-7029
+date: today
+date-format: iso
+format: 
+  html:
+    self-contained: true
+    toc: true
+---
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  tidy = TRUE, tidy.opts = list(arrow=TRUE, indent=2)
+)
+options(digits=3) 
+
+```
+
+## Libraries
+
+```{r libraries}
+# calculations
+library(geomorph) # GPA 
+library(Morpho) # CVA
+library(reshape2)  # melt
+library(IdentiFlyR)  # classification
+library(stringr) #str_split_fixed
+
+# plotting and visualization
+library(ggplot2) # plots
+ggplot2::theme_set(theme_light())
+library(rnaturalearth) # maps
+library(raster) # raster
+library(sf) # st_bbox 
+library(ggpubr) # ggarange
+
+```
+
+## Variable names
+
+```{r var-names}
+
+p = 19 # number of landmarks
+k = 2  # number of dimensions, in this case 2 for coordinates (x, y)
+
+# create coordinates names used by IdentiFly
+xyNames = c("x1", "y1")
+for (i in 2:p) {
+  xyNames = c(xyNames, paste0("x", i))
+  xyNames = c(xyNames, paste0("y", i))
+}
+xyNames
+
+# The number of principal components used is 2*p-4 = 34, which is equal to the degrees of freedom
+# create principal components names used by prcomp
+pcNames <- paste0("PC", 1:(2*p-4))
+pcNames
+
+# define which landmarks are connected by lines in wireframe graph
+link.x <- c(1, 1, 2, 2, 3,  3, 4,  4,  5, 6, 7,  7,  7, 8,  9,  9, 10, 11, 11, 12, 13, 14, 15, 16, 17)
+link.y <- c(2, 3, 4, 5, 6, 19, 6, 10, 12, 8, 8, 14, 19, 9, 10, 15, 11, 12, 16, 13, 18, 15, 16, 17, 18)
+links.apis <- cbind(link.x, link.y)
+
+```
+
+## Read data
+
+Read raw coordinates of 19 landmarks from Zenodo (<a href="#Machlowska et al., 2025">Machlowska et al., 2025</a>)
+Data for Kazakhstan refer to previous publication  <a href="#Temirbayeva et al., 2023a">Temirbayeva et al., (2023a)</a> and <a href="#Temirbayeva et al., 2023b">Temirbayeva et al., (2023b)</a>
+
+```{r read-coordinates}
+
+wings = read.csv("https://zenodo.org/records/17075125/files/AZ-raw-coordinates.csv")
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/CY-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/GE-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/IQ-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/IR-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/SA-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/TJ-raw-coordinates.csv"))
+wings = rbind(wings, read.csv("https://zenodo.org/records/17075125/files/TR-raw-coordinates.csv"))
+
+geo.data = read.csv("https://zenodo.org/records/17075125/files/AZ-data.csv")
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/CY-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/GE-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/IQ-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/IR-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/SA-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/TJ-data.csv"))
+geo.data = rbind(geo.data, read.csv("https://zenodo.org/records/17075125/files/TR-data.csv"))
+
+KZ.geo.data = read.csv("https://zenodo.org/record/8128010/files/KZ-data.csv", strip.white=TRUE)
+colnames(KZ.geo.data)[colnames(KZ.geo.data) == 'group'] <- 'notes'
+KZ.wings = read.csv("https://zenodo.org/record/8128010/files/KZ-raw-coordinates.csv")
+# use only samples declared as "local bees"
+KZ.wings = subset(KZ.wings, KZ.geo.data$notes == "local bee")
+wings = rbind(wings, KZ.wings)
+KZ.geo.data = subset(KZ.geo.data, notes == "local bee")
+geo.data = rbind(geo.data, KZ.geo.data)
+
+# extract classifiers
+wings$sample = substr(wings$file,1,7)
+wings$country = substr(wings$file,1,2)
+wings$country <- gsub("AZ", "Azerbaijan", wings$country) 
+wings$country <- gsub("CY", "Cyprus", wings$country) 
+wings$country <- gsub("GE", "Georgia", wings$country) 
+wings$country <- gsub("IQ", "Iraq", wings$country) 
+wings$country <- gsub("IR", "Iran", wings$country) 
+wings$country <- gsub("KZ", "Kazakhstan", wings$country) 
+wings$country <- gsub("SA", "Saudi Arabia", wings$country) 
+wings$country <- gsub("TJ", "Tajikistan", wings$country) 
+wings$country <- gsub("TR", "Turkey", wings$country) 
+
+# Aggregate geographic data by sample
+geoDataSample <- aggregate(geo.data[c("latitude", "longitude")], by = list(wings$sample), FUN = mean)
+geoDataSample <- data.frame(geoDataSample, row.names = 1) # move column 1 to row names
+geoDataSample$country = substr(rownames(geoDataSample),1,2)
+geoDataSample$country <- gsub("AZ", "Azerbaijan", geoDataSample$country)
+geoDataSample$country <- gsub("CY", "Cyprus", geoDataSample$country)
+geoDataSample$country <- gsub("GE", "Georgia", geoDataSample$country)
+geoDataSample$country <- gsub("IQ", "Iraq", geoDataSample$country)
+geoDataSample$country <- gsub("IR", "Iran", geoDataSample$country)
+geoDataSample$country <- gsub("KZ", "Kazakhstan", geoDataSample$country)
+geoDataSample$country <- gsub("SA", "Saudi Arabia", geoDataSample$country)
+geoDataSample$country <- gsub("TJ", "Tajikistan", geoDataSample$country)
+geoDataSample$country <- gsub("TR", "Turkey", geoDataSample$country)
+
+nrow(wings) # number of wings
+table(wings$country)# number of wings per country
+nrow(geoDataSample) # number of samples
+table(geoDataSample$country) # number of samples per country
+
+# number of workers per sample
+nColony = table(wings$sample)
+nColony <- data.frame(nColony, row.names = 1) # move column 1 to row names
+ggplot(nColony, aes(x = Freq)) + 
+  geom_histogram() +
+  coord_cartesian(xlim = c(0, 40))
+summary(nColony$Freq)
+
+# number of samples per location
+location = paste(round(geoDataSample$latitude, 1), round(geoDataSample$longitude, 1))
+nLocation = table(location)
+nLocation = as.data.frame(nLocation)
+
+locationLatLon = str_split_fixed(nLocation$location, " ", 2)
+colnames(locationLatLon) = c("latitude", "longitude")
+locationLatLon = apply(locationLatLon, 2, as.numeric)
+locationLatLon = as.data.frame(locationLatLon)
+nLocation = cbind(nLocation, locationLatLon)
+
+```
+
+## Maps
+
+```{r map}
+
+# Read elevation data. 
+# In order to download the TIF file uncomment the two lines below.
+# download.file("https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_2.5m_elev.zip", "wc2.1_2.5m_elev.zip"); 
+# unzip("wc2.1_2.5m_elev.zip"); 
+# Or use your local file. 
+elev <- raster("D:/WorldClim/wc2.1_2.5m_elev.tif")
+
+elev.color <- colorRampPalette(c("#f7f7f7", "#d9d9d9", "#bdbdbd", "#636363", "#303030"), bias=2)
+
+x.min = 25
+x.max = 83
+y.min = 15
+y.max = 46
+e <- extent(x.min-5, x.max+5, y.min-5, y.max+5)
+elev = crop(elev, e)
+elev.df  <-  data.frame(rasterToPoints(elev))
+colnames(elev.df) = c("longitude", "latitude", "altitude")
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+# Extract Caspian See outline
+coastline <- ne_coastline(scale = "medium", returnclass = "sf")
+bbox <- st_bbox(c(xmin = 46, xmax = 56, ymin = 36, ymax = 47))
+caspian <- st_crop(coastline, bbox)
+caspian$geometry <- sf::st_cast(caspian$geometry, "POLYGON")  # convert to polygon
+
+ggplot(data = world) +
+  geom_raster(data = elev.df, aes(longitude, latitude, fill = altitude)) +
+  geom_sf(data = caspian, fill = "white") +
+  scale_fill_gradientn(colours = elev.color(100)) +
+  geom_sf(fill = NA) +
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max)) +
+  geom_jitter(data = geoDataSample, aes(x = longitude, y = latitude, color = country, shape = country), size = 0.7, width = 0.3, height = 0.3) +
+  scale_color_manual(name = "country", values = rainbow(9)) +
+  scale_shape_manual(name = "country", values = 1:9) +
+  theme(legend.position='right') 
+
+ggplot(data = world) +
+  geom_raster(data = elev.df, aes(longitude, latitude, fill = altitude)) +
+  geom_sf(data = caspian, fill = "white") +
+  scale_fill_gradientn(colours = elev.color(100)) +
+  geom_sf(fill = NA) +
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max)) +
+  geom_point(data = nLocation, aes(x = longitude, y = latitude, size = Freq)) +
+  scale_size_binned_area(
+    name = "colonies",
+    limits = c(0, 100),
+    breaks = c(0, 5, 10, 20, 40)) +
+  theme(legend.position='right') 
+
+```
+
+## GPA-alignment
+
+```{r GPA}
+
+# Convert from 2D array to 3D array
+wings3D <- arrayspecs(wings[xyNames], p, k)
+dimnames(wings3D)[[3]] <- wings$file
+
+# Align the coordinates using Generalized Procrustes Analysis 
+GPA <- gpagen(wings3D, print.progress = FALSE)
+
+# plot landmarks after alignment
+plotAllSpecimens(GPA$coords,links=links.apis,label=TRUE,
+                 plot_param = list(pt.bg = "black", pt.cex = 0.5,
+                                   mean.bg = "red", mean.cex=1, link.col="red",
+                                   txt.pos=3, txt.cex=1))
+
+# Convert from 3D array to 2D array
+wingsAligned <- two.d.array(GPA$coords) 
+colnames(wingsAligned) = xyNames
+
+samplesAligned <- aggregate(wingsAligned, by = list(wings$sample), FUN = mean)
+samplesAligned <- data.frame(samplesAligned, row.names = 1) # move column 1 to row names
+
+```
+
+## PCA colony
+
+```{r PCA}
+
+PCA <- prcomp(samplesAligned[ , xyNames])
+summary(PCA)
+PCscores <- as.data.frame(PCA$x)
+PCscores <- cbind(PCscores, geoDataSample)
+
+# create plot labels
+variance.tab <- summary(PCA)$importance
+variance <- variance.tab["Proportion of Variance", "PC1"]
+variance <- round(100 * variance, 1)
+label.x <- paste0("PC1 (", variance, "%)")
+variance <- variance.tab["Proportion of Variance", "PC2"]
+variance <- round(100 * variance, 1)
+label.y <- paste0("PC2 (", variance, "%)")
+
+figPca = ggplot(PCscores, aes(x = PC1, y = PC2, shape = country, color = country)) +
+  geom_point(size = 0.7) +
+  scale_shape_manual(name ="country", values = 1:9) +
+  scale_color_manual(name ="country", values = rainbow(9)) +
+  stat_ellipse() + 
+  xlab(label.x) + ylab(label.y)
+figPca
+
+```
+
+## MANOVA
+
+```{r manova}
+
+MANOVA = manova(as.matrix(cbind(PCscores[, pcNames])) ~ country, PCscores)
+summary(MANOVA)
+
+```
+
+## LDA
+
+```{r LDA}
+
+# use equal prior probability for all groups
+n.gr <- length(unique(PCscores$country)) # number of groups
+LDA <- CVA(PCscores[pcNames], PCscores$country,
+                  rounds = 10000, cv = TRUE,
+                  prior = rep(1/n.gr, n.gr))
+LDscores <- as.data.frame(LDA$CVscores)
+# rename variable names from CV to LD otherwise use `CV 1`
+colnames(LDscores) <- gsub("CV ", "LD", colnames(LDscores))
+LDscores$country = geoDataSample$country
+
+figLda = ggplot(LDscores, aes(x = LD1, y = LD2, shape = country, color = country)) +
+  geom_point(size = 0.7) +
+  scale_shape_manual(name ="country", values = 1:9) +
+  scale_color_manual(name ="country", values = rainbow(9)) +
+  stat_ellipse()
+figLda
+ggarrange(figPca, figLda, labels = c("a", "b"), font.label = list(size = 12, face = "bold"),  ncol = 2, nrow = 1, common.legend = TRUE, legend = "bottom")
+
+# Classification of the samples to groups
+LDclass <- typprobClass(LDA$CVscores, groups = as.factor(LDscores$country), outlier = 0)
+print(LDclass)
+
+# Mahalanobis distances between groups
+knitr::kable(as.data.frame(as.matrix(LDA$Dist$GroupdistMaha)), digits = 3)
+# Probabilities of differences between groups
+knitr::kable(as.data.frame(as.matrix(LDA$Dist$probsMaha)), digits = 5)
+
+```
+
+## Classification of colonies as lineages
+
+Comparison with lineages dataset <a href="#Nawrocka et al., 2018a">Nawrocka et al., (2018a)</a> and <a href="#Nawrocka et al., 2018b">Nawrocka et al., (2018b)</a>
+
+```{r colony-lin}
+
+idData <- xml2gmLdaData("https://zenodo.org/records/14054009/files/apis-mellifera-lineage.dw.xml")
+id = gmLdaData2id(idData,
+                  samplesAligned[,xyNames],
+                  average = FALSE)
+id$plot
+tab = table(id$id$group)
+tab
+prop.table(tab)
+
+idID = id$id
+idID$country = substr(rownames(idID), 1, 2)
+tab = table(idID$group, idID$country)
+tab
+prop.table(tab, margin = 2)
+
+idMD = id$MD2
+pTab = as.data.frame(id$P)
+sums = rowSums(pTab)
+pTab = pTab/sums
+
+pTabLong <- pTab
+pTabLong$sample <- rownames(pTabLong)
+pTabLong <- melt(pTabLong, id.vars = c("sample"))
+pTabLong$gr <- substr(pTabLong$sample, 1, 2)  # short 2 letter name
+
+ggplot(pTabLong, aes(sample, value, fill = variable)) +
+  geom_col(width = 1) +
+  scale_fill_manual(values = rainbow(4), name="") +
+  facet_grid(~gr, switch = "x", scales = "free", space = "free") +
+  theme_minimal() + 
+  labs(x = NULL, y = NULL) +
+  scale_y_continuous(expand = c(0, 0)) +
+  guides(fill=guide_legend(nrow=1, byrow=TRUE)) +
+  theme(panel.spacing.x = unit(0.2, "lines"), axis.text.x = element_blank(),
+        legend.position = "top") 
+
+geoDataSample$lineage  = idID$group
+
+ggplot(data = world) + geom_sf() + 
+  geom_jitter(data = geoDataSample, aes(x = longitude, y = latitude, color = lineage, shape = lineage), width = 0.4, height = 0.4, size = 0.7) + 
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max)) +
+  scale_color_manual(name = "", values = rainbow(4)) +
+  scale_shape_manual(name = "", values = 1:4) + 
+  guides(color=guide_legend(nrow=1, byrow=TRUE)) +
+  theme(legend.position = "top")
+
+# map of lineage A
+ggplot(data = world) + geom_sf() + 
+  geom_jitter(data = geoDataSample[geoDataSample$lineage == "A", ], 
+              aes(x = longitude, y = latitude), width = 0.4, height = 0.4) + 
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max))
+
+# map of lineage C
+ggplot(data = world) + geom_sf() + 
+  geom_jitter(data = geoDataSample[geoDataSample$lineage == "C", ], 
+              aes(x = longitude, y = latitude), width = 0.4, height = 0.4) + 
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max))
+
+# map of lineage M
+ggplot(data = world) + geom_sf() + 
+  geom_jitter(data = geoDataSample[geoDataSample$lineage == "M", ], 
+              aes(x = longitude, y = latitude), width = 0.4, height = 0.4) + 
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max))
+
+# map of lineage O
+ggplot(data = world) + geom_sf() + 
+  geom_jitter(data = geoDataSample[geoDataSample$lineage == "O", ], 
+              aes(x = longitude, y = latitude), width = 0.4, height = 0.4) + 
+  coord_sf(xlim = c(x.min, x.max), ylim = c(y.min, y.max))
+
+```
+
+## Error of measurements
+
+```{r error}
+
+wingsAdj = read.csv("https://zenodo.org/records/17075125/files/GE-30-3x.csv", row.names = 1)
+wingsAdj3D <- arrayspecs(wingsAdj[xyNames], p, k)
+dimnames(wingsAdj3D)[[3]] <- rownames(wingsAdj)
+
+# Align the coordinates using Generalized Procrustes Analysis 
+GPA <- gpagen(wingsAdj3D, print.progress = FALSE)
+wingsAdjAligned <- two.d.array(GPA$coords) 
+colnames(wingsAdjAligned) = xyNames
+wingsAdjAligned = as.data.frame(wingsAdjAligned)
+wingsAdjAligned$colony = substr(rownames(wingsAdj), 5, 7)
+wingsAdjAligned$colony = as.numeric(wingsAdjAligned$colony)
+wingsAdjAligned$replication = str_sub(rownames(wingsAdj), -8, -8)
+wingsAdjAligned$colony_rep = paste(wingsAdjAligned$colony, wingsAdjAligned$replication, sep = "_")
+
+samplesAdj <- aggregate(wingsAdjAligned[xyNames], by = list(wingsAdjAligned$colony_rep), FUN = mean)
+samplesAdj <- data.frame(samplesAdj, row.names = 1) # move column 1 to row names
+
+colonyRep = str_split_fixed(rownames(samplesAdj), "_", 2)
+colnames(colonyRep) = c("colony", "replication")
+samplesAdj = cbind(samplesAdj, colonyRep)
+table(samplesAdj$replication)
+
+PCA <- prcomp(samplesAdj[ , xyNames])
+PCscores <- as.data.frame(PCA$x)
+
+PCscores$colony = samplesAdj$colony
+PCscores$group = samplesAdj$replication
+PCscores$point = PCscores$group
+
+# create plot labels
+variance.tab <- summary(PCA)$importance
+variance <- variance.tab["Proportion of Variance", "PC1"]
+variance <- round(100 * variance, 1)
+label.x <- paste0("PC1 (", variance, "%)")
+variance <- variance.tab["Proportion of Variance", "PC2"]
+variance <- round(100 * variance, 1)
+label.y <- paste0("PC2 (", variance, "%)")
+
+repMean <- aggregate(PCscores[,c("PC1", "PC2")], by = list(PCscores$colony), FUN = mean)
+colnames(repMean)[1] = "colony"
+repMean$point = "mean"
+repMean$group = 0
+repMean1 = repMean
+repMean1$group = 1
+repMean2 = repMean
+repMean2$group = 2
+
+plotData = rbind(PCscores[,c("PC1", "PC2", "colony", "group")],
+                 repMean[,c("PC1", "PC2", "colony", "group")],
+                 repMean1[,c("PC1", "PC2", "colony", "group")],
+                 repMean2[,c("PC1", "PC2", "colony", "group")]
+                 )
+plotData$colony_gr = paste(plotData$colony, plotData$group, sep = "-")
+figME1 = ggplot(plotData, aes(x = PC1, y = PC2, color = group, shape = group)) +
+  geom_point() +
+  scale_color_manual(name = "replication", values = c(rainbow(3), "black")) +
+  scale_shape_manual(name = "replication", values = c(16, 16, 16)) +
+  geom_line(aes(group = colony_gr), color = "black") +
+  xlab(label.x) + ylab(label.y)+
+  theme(legend.position="none")
+figME1
+
+# Convert from 2D array to 3D array
+samplesAdj3D <- arrayspecs(samplesAdj[xyNames], p, k)
+dimnames(samplesAdj3D)[[3]] <- rownames(samplesAdj)
+wingsAdjList = list(coordsarray = samplesAdj3D, colony = samplesAdj$colony, replication=samplesAdj$replication)
+
+ME1 <- gm.measurement.error(
+  coords = "coordsarray",
+  subjects = "colony",
+  replicates = "replication",
+  data = wingsAdjList)
+anova(ME1)
+ICCstats(ME1, subjects = "Subjects", with_in = "Systematic ME")
+plot(ME1) 
+MEplot = plot(ME1)
+plotPoints = MEplot$data
+plotPoints$x = MEplot$x
+plotPoints$y = MEplot$y
+
+plotPoints$colony = plotPoints$subjects
+plotPoints$group = plotPoints$replicates
+plotPoints$point = plotPoints$group
+
+repMean <- aggregate(plotPoints[,c("x", "y")], by = list(plotPoints$colony), FUN = mean)
+colnames(repMean)[1] = "colony"
+repMean$point = "mean"
+repMean$group = 0
+repMean1 = repMean
+repMean1$group = 1
+repMean2 = repMean
+repMean2$group = 2
+
+plotData = rbind(plotPoints[,c("x", "y", "colony", "group", "point")],
+                 repMean[,c("x", "y", "colony", "group", "point")],
+                 repMean1[,c("x", "y", "colony", "group", "point")],
+                 repMean2[,c("x", "y", "colony", "group", "point")]
+                 )
+plotData$colony_gr = paste(plotData$colony, plotData$group, sep = "-")
+figME2 = ggplot(plotData, aes(x = x, y = y, color = point, shape = point)) +
+  geom_point() +
+  scale_color_manual(name = "replication", values = c(rainbow(3), "black")) +
+  scale_shape_manual(name = "replication", values = c(16, 16, 16, 16)) +
+  geom_line(aes(group = colony_gr), color = "black", linewidth = 0.5) +
+  xlab(MEplot$xlab) + ylab(MEplot$ylab) +
+  theme(legend.position="none")
+figME2
+ggarrange(figME1, figME2, labels = c("a", "b"), font.label = list(size = 12, face = "bold"),  ncol = 2, nrow = 1)
+
+```
+
+## Procrustes distances
+
+```{r PD}
+
+GE30 <- wings[wings$country == "Georgia", ]
+GE30$colony <- substr(GE30$file, 5, 7)
+GE30$colony <- as.numeric(GE30$colony)
+GE30 <- data.frame(GE30, row.names = 1)  # move column 1 to row names
+GE30 <- GE30[GE30$colony < 31, c(xyNames, "colony")]
+nrow(GE30)  # number of wings
+# number of workers per colony
+nColony <- table(GE30$colony)
+nColony <- as.data.frame(nColony)
+summary(nColony$Freq)
+
+# Procrustes distances between workers in 30 colonies 
+pdVec = numeric(30)
+for (i in 1:30) {
+  coords <- arrayspecs(GE30[GE30$colony == i, xyNames], p, k)
+  Y.gpa <- gpagen(coords, Proj = TRUE, verbose = TRUE, print.progress = FALSE)
+  D <- Y.gpa$procD
+  pdVec[i] = mean(D)
+}
+summary(pdVec)
+
+# Procrustes distance between colonies
+GE30colony <- aggregate(GE30[,xyNames], by = list(GE30$colony), FUN = mean)
+GE30colony <- data.frame(GE30colony, row.names = 1) # move column 1 to row names
+coords <- arrayspecs(GE30colony, p, k)
+Y.gpa <- gpagen(coords, Proj = TRUE, verbose = TRUE, print.progress = FALSE)
+# Pairwise Procrustes distances among specimens
+D <- Y.gpa$procD
+summary(D)
+
+# Procrustes distance between replications 
+coords <- aggregate(wingsAdjAligned[,xyNames], by = list(wingsAdjAligned$replication), FUN = mean)
+coords <- data.frame(coords, row.names = 1) # move column 1 to row names
+coords <- arrayspecs(coords, p, k)
+Y.gpa <- gpagen(coords, Proj = TRUE, verbose = TRUE, print.progress = FALSE)
+D <- Y.gpa$procD
+summary(D)
+
+# Procrustes distance between countries
+coords <- aggregate(wingsAligned, by = list(wings$country), FUN = mean)
+coords <- data.frame(coords, row.names = 1) # move column 1 to row names
+coords <- arrayspecs(coords, p, k)
+Y.gpa <- gpagen(coords, Proj = TRUE, verbose = TRUE, print.progress = FALSE)
+D <- Y.gpa$procD
+knitr::kable(as.data.frame(as.matrix(D)), digits = 4)
+# D
+summary(D)
+
+```
+
+## Influence of sample size on classification results
+
+```{r resample}
+
+# single colony
+colony = wingsAligned[geo.data$sample == "GE-0001", xyNames]
+
+# for each sample size create 36 replicates equal to number of workers in the colony
+nrep <- nrow(colony)
+nVec = 2^(0:5) # vector with sample size ranging from 1 to 32
+plotList <- vector(mode='list', length=length(nVec))
+classDf <- data.frame(matrix(ncol = length(nVec), nrow = nrep))
+OpDf <- data.frame(matrix(ncol = length(nVec), nrow = nrep))
+set.seed(1)
+for (i in 1:length(nVec)) {
+  n=nVec[i]
+  replicates <- replicate(
+    nrep,
+    colMeans(
+      colony[
+        sample(1:nrow(colony), n, replace = FALSE),
+        ,
+        drop = FALSE
+      ]
+    )
+  )
+  replicates <- t(replicates)
+  
+  id = gmLdaData2id(idData,
+                    replicates,
+                    average = FALSE)
+  plotList[[i]] <- id$plot  # add plot to list
+  classDf[,i] = id$id$group
+  OpDf[,i] = id$P[,4]
+}
+
+plotLabels = letters[1:6]
+plotLabels = paste(plotLabels, nVec, sep = ",  n=")
+ggarrange(plotlist=plotList,
+          labels = plotLabels,
+          font.label = list(size = 12, face = "bold"),
+          ncol = 2, nrow = 3)
+
+classDf
+
+```
+
+## References
+
+<p id="Machlowska et al., 2025">
+
+Machlowska, J., Kandemir, I., Özkan Koca, A., Kakhniashvili, V., Alattal, Y., Alghamdi, A., & Tofilski, A. (2025). Fore wings of honey bees (*Apis mellifera*) from southwestern Asia \[Data set\]. Zenodo. <https://doi.org/10.5281/zenodo.17075125>
+
+</p>
+
+<p id="Nawrocka et al., 2018a">
+
+Nawrocka, A., Kandemir, İ., Fuchs, S., & Tofilski, A. (2018). Computer software for identification of honey bee subspecies and evolutionary lineages. Apidologie, 49(2), 172-184. <https://doi.org/10.1007/s13592-017-0538-y>
+
+</p>
+
+<p id="Nawrocka et al., 2018b">
+
+Nawrocka, A., Kandemir, İ., Fuchs, S., & Tofiilski, A. (2018). Dataset: Computer software for identification of honey bee subspecies and evolutionary lineages. Apidologie, 49, 172–184. <https://doi.org/10.5281/zenodo.7567336>
+
+</p>
+
+<p id="Temirbayeva et al., 2023a">
+
+Temirbayeva, K., Torekhanov, A., Nuralieva, U., Sheralieva, Z., & Tofilski, A. (2023). In Search of *Apis mellifera pomonella* in Kazakhstan. Life, 13(9), 1860. <https://doi.org/10.3390/life13091860>
+
+</p>
+
+<p id="Temirbayeva et al., 2023b">
+
+Temirbayeva, K., Torekhanov, A., Nuralieva, U., Sheralieva, Z., & Tofilski, A. (2023). Fore wings of honey bees (*Apis mellifera*) from Kazakhstan \[Data set\]. Zenodo. <https://doi.org/10.5281/zenodo.8128010>
+
+</p>
+
+## Session information
+
+```{r info}
+sessionInfo()
+```

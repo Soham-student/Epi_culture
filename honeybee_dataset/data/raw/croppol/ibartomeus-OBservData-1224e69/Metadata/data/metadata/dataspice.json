@@ -1,0 +1,489 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "CropPol",
+  "creator": [
+    {
+      "type": "Person",
+      "id": "0000-0001-7893-4389",
+      "email": "nacho.bartomeus@gmail.com",
+      "affiliation": "Estación Biológica de Doñana (EBD-CSIC), Avda. Américo Vespucio 26, Isla de la Cartuja, 41092 Sevilla, Spain",
+      "name": "Ignasi Bartomeus"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0003-3547-2190",
+      "email": "alfonso.allen.perkins@gmail.com",
+      "affiliation": "Estación Biológica de Doñana (EBD-CSIC), Avda. Américo Vespucio 26, Isla de la Cartuja, 41092 Sevilla, Spain",
+      "name": "Alfonso Allen-Perkins"
+    }
+  ],
+  "description": "Seventy five percent of fruit production of the major global crops benefit by insect pollination. Hence, there has been increased interest in how global change drivers impact on this critical ecosystem service. Because standardized data on crop pollination are rarely available, we are limited in our capacity to understand the variation in pollination benefits to crop yield, as well as to anticipate changes in this service, develop predictions, and inform management actions. Here, we present CropPol, a dynamic, open and global database on crop pollination. It contains measurements recorded within 189 crop studies, covering 3,216 field observations, 2,421 yield measurements (i.e. berry weight, number of fruits and kg per hectare, among others), and 46,262 insect records from 49 commercial crops, distributed throughout the globe. CropPol comprises 32 of the 87 leading global crops and commodities that are pollinator dependent. Malus domestica is the most represented crop (25 studies), followed by Brassica napus (22 studies), Vaccinium corymbosum (13 studies), and Citrullus lanatus (12 studies). The most abundant pollinator guilds recorded are honey bees (33.12% counts), bumblebees (18.65%), flies other than Syrphidae and Bombyliidae (13.76%), other wild bees (13.51%), beetles (11.47%), Syrphidae (4.86%), and Bombyliidae (0.06%). Locations comprise 32 countries distributed among Northern America (59 studies), Europe (70), Latin America and the Caribbean (27), Asia (22), Oceania (10), and Africa (7). The sampling spans over three decades and concentrates on 2001-05 (21 studies), 2006-10 (38), 2011-15 (87), 2016-20 (40). This is the most comprehensive open global data set on measurements of crop pollinators and pollination to date.",
+  "datePublished": null,
+  "keywords": ["Pollination", "crop production", "agricultural management", "biodiversity", "bees", "pollinators"],
+  "funder": "OBServ Project, funded through the 2017-2018 Belmont Forum and BiodivERsA joint call for research proposals, under the BiodivScen ERA-Net COFUND programme, and with the funding organisations AEI, NWO, ECCyT and NSF.",
+  "temporalCoverage": "1990/2020",
+  "license": "CC By",
+  "spatialCoverage": {
+    "type": "Place",
+    "name": "The sampled locations span over 32 countries distributed among Northern America (59 studies), Europe (70), Latin America and the Caribbean (27), Asia (22), Oceania (10), and Africa (7)",
+    "geo": {
+      "type": "GeoShape",
+      "box": "-75.6046 -122.97 59.86528 176.3204"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "study_id",
+      "description": "identification code for a given study: Name of the leading author+crop name+country+year"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "site_id",
+      "description": "identification code for a site within a study"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "crop",
+      "description": "crop latin name"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "variety",
+      "description": "crop variety name"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "management",
+      "description": "management system implemented in the field: (1) Organic Agriculture, (2) Integrated pest management, and(3) Other Conventional Practices, (4) unmanaged"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "country",
+      "description": "country where the crop field is located"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "latitude",
+      "description": "latitude (WGS84) of a given field expressed in degrees"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "longitude",
+      "description": "longitude (WGS84) of a given field expressed in degrees"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "X_UTM",
+      "description": "Easting planar coordinate of a given field expressed in meters"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "Y_UTM",
+      "description": "Northing planar coordinate of a given field expressed in meters"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "zone_UTM",
+      "description": "the UTM zone number of a given field."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_start_month",
+      "description": "month of the year at the beginning of the sampling period (for example, 1 for January, 2 for February and so on)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_end_month",
+      "description": "month of the year at the end of the sampling period (see description for sampling_start_month)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_year",
+      "description": "year in which the sampling was carried out"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "field size",
+      "description": "area of the field [hectare]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield",
+      "description": "yield value of a given field"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield_units",
+      "description": "yield units"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield2",
+      "description": "secondary yield value"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield2_units",
+      "description": "secondary yield units"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield_treatments_no_pollinators",
+      "description": "if the results for yield involve exclosures (e.g., bags, etc.), we fill this column with such results (measured as the first unit )"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield_treatments_pollen_supplement",
+      "description": "if the results for yield were obtained by using an additional treatment (e.g., hand-pollination, etc.), we fill this column with such results measured as the first unit)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield_treatments_no_pollinators2",
+      "description": "if the results for secondary yield involve exclosures (e.g., bags, etc.), we fill this column with such results (second yield unit)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "yield_treatments_pollen_supplement2",
+      "description": "if the results for yield were obtained by using an additional treatment (e.g., hand-pollination, etc.), we fill this column with such results. (second yield unit)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "fruits_per_plant",
+      "description": "average number of fruits per plant [count per plant]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "fruit_weight",
+      "description": "average fruit weight [grams per fruit]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "plant_density",
+      "description": "amount of crop plants per unit area of crop field [individuals per square meter]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "seeds_per_fruit",
+      "description": "average number of seeds per fruit [count per fruit]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "seeds_per_plant",
+      "description": "average number of seeds per plant or pod [count per plant]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "seed_weight",
+      "description": "average seed weight [grams per 100 seeds]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_richness",
+      "description": "method to survey organisms that is used to estimate richness."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "observed_pollinator_richness",
+      "description": "number of different pollinator species observed [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "other_pollinator_richness",
+      "description": "estimated number of different species [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "other_richness_estimator_method",
+      "description": "method used for estimating other_pollinator_richness, preferably Chao1."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "richness_restriction",
+      "description": "free text to describe constraints on richness/abundance measurements"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_abundance",
+      "description": "method to survey organisms that is used to estimate abundance."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "abundance",
+      "description": "total amount of counts along transect lines [counts]. In the case of performing several transect walks,we indicate the sum of the individuals collected."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_honeybee",
+      "description": "total amount of transect counts for honey bees [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_bombus",
+      "description": "total amount of transect counts for bumble bees [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_wildbees",
+      "description": "total amount of transect counts for other wild bees [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_syrphids",
+      "description": "total amount of transect counts for syrphids [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_humbleflies",
+      "description": "total amount of transect counts for bombyliidae [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_other_flies",
+      "description": "total amount of transect counts for non syrphid or bombilida diptera [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_beetles",
+      "description": "total amount of transect counts for coleoptera [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_lepidoptera",
+      "description": "total amount of transect counts for lepidoptera (butterflies and moths) [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_nonbee_hymenoptera",
+      "description": "total amount of transect counts for nonbee hymenoptera (sawflies, wasps, ants, etc.) [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "ab_others",
+      "description": "total amount of transect counts that were not included in the previous categories [counts]"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "total_sampled_area",
+      "description": "area sampled during each census at each of the sites (e.g. area covered by one transect) in [square meters]. In the cases in which there was more than one sampling area within a site, this variable reflects the sum of their respective areas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "total_sampled_time",
+      "description": "time spent sampling [minutes] each field. In the case in which sites were surveyed multiple times, this variable reflects the sum of their respective durations."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_visitation",
+      "description": "method to survey organisms that is used to estimate visitation rates."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visitation_rate_units",
+      "description": "number of legitimate visits (i.e. contacting reproductive structures) to crop units (flowers, branches,etc.), per unit time. Preferred units: [visits per 100 flowers during one hour]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visitation_rate",
+      "description": "total visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_honeybee",
+      "description": "guild (honey bees) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_bombus",
+      "description": "guild (bumble bees) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_wildbees",
+      "description": "guild (other wild bees) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_syrphids",
+      "description": "guild (syrphids) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_humbleflies",
+      "description": "guild (bombyliidae) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_other_flies",
+      "description": "guild (non syrphid or bombilida diptera) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_beetles",
+      "description": "guild (coleoptera) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_lepidoptera",
+      "description": "guild (lepidoptera: butterflies and moths) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_nonbee_hymenoptera",
+      "description": "guild (nonbee hymenoptera: sawflies, wasps, ants, etc.) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "visit_others",
+      "description": "guild (other) visitation rate to crop units (flowers, branches,etc.) [in the visitation_rate_units]."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "Publication",
+      "description": "If published, DOI of the publication (preferred) or article reference, if DOI is not available."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "Credit",
+      "description": "list with all authors who need to be given credit"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "Email_contact",
+      "description": "email for contacting purposes."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "notes",
+      "description": "comments or clarifications on the values of a given variable"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "pollinator",
+      "description": "name of the organism recorded"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "guild",
+      "description": "guild of the pollinator"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "identified_to",
+      "description": "taxonomic resolution of the pollinator (whether identification is at the level of species, morphospecies, genera, etc)."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sampling_method",
+      "description": "method to survey organisms. If multiple methods were used per organism, one independent row is added for each method."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "abundance",
+      "description": "number of individuals observed/collected. In the case of performing several censuses (transect walks/plant observations), this field reflects the sum of the individuals collected. When specified in the variable description, the values may refer to visitation rates."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "total_sampled_flowers",
+      "description": "number of flowers surveyed at each census (e.g., transect) per site. In the cases in which several censuses were performed, this variable reflects the sum of the respective counts."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "description",
+      "description": "free text to describe the overall methodology, including the number of temporal replicates per site and what a spatial replicate means in the corresponding study."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "notes",
+      "description": "free text to add comments on the taxa resolution or any other variables"
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "field level data",
+      "contentUrl": "https://zenodo.org/record/4311292#.X8-hIFVKjIU",
+      "encodingFormat": "CSV"
+    },
+    {
+      "type": "DataDownload",
+      "name": "insect sampling data",
+      "contentUrl": "https://zenodo.org/record/4311292#.X8-hIFVKjIU",
+      "encodingFormat": "CSV"
+    }
+  ]
+}

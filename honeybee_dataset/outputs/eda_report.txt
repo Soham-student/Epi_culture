@@ -1,0 +1,77 @@
+=================================================================
+ HONEYBEE DATASET – EDA REPORT
+ Species: Apis mellifera (Western Honey Bee)
+=================================================================
+
+Shape : 121 rows × 75 columns
+Continents covered  : ['Africa', 'Asia', 'Central Asia', 'Europe', 'North America']
+Countries covered   : 23
+Unique plants       : 56
+Plant families      : 13
+Subspecies recorded : 15
+Lineages (M/C/A/O/Y): ['A', 'C', 'M', 'O', 'Y']
+Avg data completeness: 88.6%
+
+── Honey Production Top 5 ─────────────────────────────
+  Turkey              :  114,000 tonnes
+  India               :  101,000 tonnes
+  Iran                :   74,000 tonnes
+  Mexico              :   68,000 tonnes
+  Spain               :   40,000 tonnes
+
+── Plants by Type ─────────────────────────────────────
+  Tree                          : 26
+  Fruit tree                    : 25
+  Crop                          : 22
+  Herb                          : 9
+  Shrub/Moorland                : 8
+  Legume/Pasture                : 7
+  Berry shrub                   : 5
+  Nut tree                      : 4
+  Shrub/Tree                    : 2
+  Legume/Crop                   : 2
+  Tree/Shrub                    : 2
+  Herb/Spice                    : 1
+  Wildflower mix                : 1
+  Legume/Herb                   : 1
+  Shrub                         : 1
+  Tree (honeydew)               : 1
+  Climbing plant                : 1
+  Wildflower                    : 1
+  Herb/Crop                     : 1
+  Shrub/Crop                    : 1
+
+── Honey Types ────────────────────────────────────────
+  Monofloral                         : 92
+  Polyfloral                         : 27
+  Monofloral (toxic grayanotoxin)    : 1
+  Honeydew monofloral                : 1
+
+── Tofilski 2025 Dataset Coverage ─────────────────────
+  Countries: Azerbaijan, Cyprus, Georgia, Iran, Iraq, Saudi Arabia, Tajikistan, Turkey
+  Wing images in dataset: 17,457
+  Colonies sampled: 1,557
+  DOI: 10.1038/s41597-025-06234-8
+  Zenodo: 10.5281/zenodo.17075125
+
+── Wing Morphometrics Range ───────────────────────────
+  Forewing length: 8.75–9.45 mm
+  Cubital index  : 1.80–2.55
+  Tongue length  : 5.95–6.70 mm
+
+── Toxic Honey Risk Plants ────────────────────────────
+  Rhododendron              (Rhododendron ponticum) – Turkey
+
+── Key Reference Papers ───────────────────────────────
+  [1] Machlowska J, Kandemir I, Tofilski A et al. (2025)
+      Variation of honey bee wings in southwestern Asia.
+      Scientific Data. DOI:10.1038/s41597-025-06234-8
+  [2] Oleksa A, Cauia E, Tofilski A et al. (2023)
+      Honey bee wing images: a tool for identification and conservation.
+      GigaScience. DOI:10.1093/gigascience/giad019
+  [3] Tofilski A. (2008)
+      Using geometric morphometrics and standard morphometry to discriminate
+      three honeybee subspecies. Apidologie 39:558–563.
+      DOI:10.1051/apido:2008028
+
+=================================================================

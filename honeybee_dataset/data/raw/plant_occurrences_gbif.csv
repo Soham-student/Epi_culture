@@ -1,0 +1,1501 @@
+plant_scientific_name,plant_common_name,plant_type,gbif_taxon_key,gbif_occ_key,country,country_code,latitude,longitude,year,month,species_matched,basis_of_record
+Malus domestica,Apple,Fruit tree,3001244,5937964153,Germany,DE,50.427666,8.224152,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938030508,New Zealand,NZ,-44.728925,171.050718,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938341507,Russian Federation,RU,58.520393,31.312798,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938410476,United Kingdom of Great Britain and Northern Ireland,GB,53.996392,-1.132373,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938490322,Russian Federation,RU,56.996467,43.146978,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938519425,Bulgaria,BG,42.681472,23.244265,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938519674,New Zealand,NZ,-41.163635,173.005468,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938669659,New Zealand,NZ,-44.728973,171.050681,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5938679760,New Zealand,NZ,-44.728923,171.050729,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5939212290,Sweden,SE,57.42568,12.11385,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5939216128,Sweden,SE,60.14016,15.18764,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5939258910,Sweden,SE,56.75263,12.90637,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5958983710,Germany,DE,48.908081,9.593922,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5958992072,Germany,DE,48.983795,9.241211,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5994795108,Sweden,SE,58.3407,11.9088,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5994810392,Sweden,SE,56.77987,15.88729,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5994837642,Sweden,SE,59.8389,17.61412,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5994842154,Sweden,SE,57.60904,18.43031,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,5995586367,Belgium,BE,51.22159,2.93885,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6043383020,Sweden,SE,57.41027,15.0496,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6084210683,Germany,DE,51.136257,9.528975,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6084212380,Germany,DE,51.627979,10.38355,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6115863757,Sweden,SE,59.04374,16.80979,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6129680112,Germany,DE,49.344585,9.053421,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6129684945,Germany,DE,53.84832,10.63956,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6129965862,Russian Federation,RU,58.53707,31.655758,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130146524,New Zealand,NZ,-45.03223,168.74456,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130281055,New Zealand,NZ,-45.355473,168.092684,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130485491,United Kingdom of Great Britain and Northern Ireland,GB,51.525763,-3.38889,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130527470,New Zealand,NZ,-40.663184,175.279639,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130535175,New Zealand,NZ,-45.032239,168.744539,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130642611,New Zealand,NZ,-36.72933,174.723467,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130690325,New Zealand,NZ,-37.807047,175.301178,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130774631,Russian Federation,RU,56.866277,35.49723,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6130910810,United States of America,US,40.714683,-122.413453,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131307603,Russian Federation,RU,49.892325,41.486268,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131345542,New Zealand,NZ,-41.018105,172.977187,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131537713,Russian Federation,RU,54.83131,37.643931,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131543286,France,FR,47.396679,-2.195818,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131610645,Russian Federation,RU,58.506573,37.293117,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131612252,New Zealand,NZ,-45.023811,168.700121,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131634123,United States of America,US,48.064817,-122.283953,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131691232,Russian Federation,RU,58.506869,37.293166,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6131694851,Canada,CA,48.537825,-123.39752,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133028496,Argentina,AR,-41.151142,-71.433638,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133171365,New Zealand,NZ,-37.857445,175.681137,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133199592,Russian Federation,RU,49.903044,41.478055,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133241240,Australia,AU,-35.633969,148.664683,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133335029,Australia,AU,-36.114964,142.421495,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133382973,New Zealand,NZ,-40.811592,172.932172,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133464580,Australia,AU,-33.458486,150.170661,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133548485,United States of America,US,44.925182,-93.268913,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133555956,New Zealand,NZ,-43.607383,172.645522,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133608829,New Zealand,NZ,-44.94223,168.711595,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6147663107,Chile,CL,-37.092305,-73.15918,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6148387210,Norway,NO,59.946652,10.489888,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6150638396,Netherlands,NL,52.3,6.85,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6151738258,Netherlands,NL,52.65,4.8,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6159244852,South Africa,ZA,-33.999149,18.411346,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6242424314,United Kingdom of Great Britain and Northern Ireland,GB,55.033039,-1.749101,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6261356623,Belarus,BY,52.129487,26.110703,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6294881470,United Kingdom of Great Britain and Northern Ireland,GB,53.229599,-1.319865,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6307804640,United Kingdom of Great Britain and Northern Ireland,GB,52.790098,-1.51951,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6311870655,United Kingdom of Great Britain and Northern Ireland,GB,53.229512,-1.304886,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6360331347,Spain,ES,39.89,-0.78,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6360341330,Spain,ES,39.89,-0.8,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527717816,Switzerland,CH,47.33128,8.1332,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527726025,Switzerland,CH,47.01843,7.27422,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527731484,Switzerland,CH,47.37625,8.13379,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527769356,Switzerland,CH,47.19844,7.47162,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527827190,Switzerland,CH,47.06348,7.53736,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6527929488,Switzerland,CH,47.01843,7.27422,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6528123053,Switzerland,CH,47.46577,8.20127,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539191092,India,IN,9.03945,76.64916,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539204386,India,IN,9.16743,76.59107,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539235801,India,IN,9.16743,76.59107,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539292076,India,IN,9.03945,76.64916,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539292298,India,IN,9.37774,76.42323,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539310567,India,IN,9.03945,76.64916,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539351411,India,IN,9.28174,76.7716,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539406688,India,IN,9.16743,76.59107,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539415222,India,IN,9.03945,76.64916,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539461396,India,IN,9.16743,76.59107,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539550664,India,IN,9.03945,76.64916,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539568884,India,IN,9.28174,76.7716,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539749768,India,IN,9.37774,76.42323,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6539789232,India,IN,9.16743,76.59107,2026,1,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6581692320,Australia,AU,-43.420417,146.165111,2026,1,Malus domestica,PRESERVED_SPECIMEN
+Malus domestica,Apple,Fruit tree,3001244,6581695303,Australia,AU,-43.428444,146.16125,2026,1,Malus domestica,PRESERVED_SPECIMEN
+Malus domestica,Apple,Fruit tree,3001244,6581702311,Australia,AU,-43.372167,146.131333,2026,1,Malus domestica,PRESERVED_SPECIMEN
+Malus domestica,Apple,Fruit tree,3001244,6132971533,Sweden,SE,59.8389,17.61412,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6132985243,Sweden,SE,58.33093,11.8984,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133007872,Sweden,SE,59.102,16.78787,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6133609405,New Zealand,NZ,-43.521448,172.664716,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6147111786,Sweden,SE,59.85582,17.54832,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6147594011,Colombia,CO,6.727909,-76.026319,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6148229254,Norway,NO,59.443719,10.693869,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6148338412,Norway,NO,59.946652,10.489888,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6159218313,United States of America,US,43.136514,-89.66427,2026,2,Malus domestica,HUMAN_OBSERVATION
+Malus domestica,Apple,Fruit tree,3001244,6159400551,United States of America,US,34.163947,-117.288459,2026,2,Malus domestica,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5936511886,Finland,FI,60.178911,24.664395,2026,1,Prunus padus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5936514626,Finland,FI,62.25378,25.756432,2026,1,Prunus padus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5936628587,Israel,IL,32.740057,35.69904,2026,1,Prunus amygdalus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937750433,Belgium,BE,51.02308,5.41997,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937750809,Belgium,BE,51.19804,4.74467,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937750855,Belgium,BE,51.24947,4.513,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937751393,Belgium,BE,51.12131,4.45448,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937963283,Germany,DE,50.70583,11.289269,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937963892,Germany,DE,52.090557,8.753611,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937964669,Germany,DE,49.334885,8.544188,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937966377,Germany,DE,49.334885,8.544188,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937967749,Germany,DE,52.085663,8.772755,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937967862,Germany,DE,50.804485,11.010292,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937968936,Germany,DE,52.949051,10.567646,2026,1,,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937975567,Germany,DE,49.334885,8.544188,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937975737,Germany,DE,51.276306,6.407003,2026,1,Prunus subhirtella,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937978568,Germany,DE,50.70583,11.289269,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937978615,Germany,DE,50.804485,11.010292,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5937980498,Germany,DE,49.334885,8.544188,2026,1,Prunus padus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938036091,Canada,CA,49.253671,-123.23031,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938036283,Italy,IT,45.853167,8.795582,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938041141,Germany,DE,48.100384,11.038727,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938044498,United States of America,US,34.688497,-76.876631,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938054575,United States of America,US,30.370043,-91.104834,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938063307,United States of America,US,32.81049,-80.064148,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938080361,France,FR,50.580242,2.984917,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938087636,United States of America,US,40.319564,-75.125274,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938105075,United States of America,US,30.324158,-97.87301,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938110658,Puerto Rico,PR,18.179804,-66.623974,2026,1,Prunus occidentalis,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938111074,United Kingdom of Great Britain and Northern Ireland,GB,51.750253,-1.224695,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938116684,United States of America,US,40.209075,-105.289192,2026,1,Prunus virginiana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938117523,United States of America,US,39.987338,-75.688508,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938126885,Austria,AT,47.136601,15.572882,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938134883,United Kingdom of Great Britain and Northern Ireland,GB,51.256969,-1.091224,2026,1,Prunus cerasifera,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938135298,United States of America,US,42.339339,-72.197278,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938154953,Chinese Taipei,TW,25.125906,121.519364,2026,1,Prunus spinulosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938179355,France,FR,48.747301,7.615283,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938181760,Czechia,CZ,49.895648,16.06505,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938184174,United States of America,US,37.253783,-118.210838,2026,1,Prunus andersonii,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938185761,Spain,ES,40.911186,-4.004697,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938188094,United Kingdom of Great Britain and Northern Ireland,GB,52.203196,-1.451861,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938199923,United States of America,US,42.713107,-84.372849,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938201896,United States of America,US,32.73462,-117.144042,2026,1,Prunus ilicifolia,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938210506,Italy,IT,45.319345,11.712522,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938210511,United States of America,US,39.98963,-75.68667,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938212848,United States of America,US,33.077952,-96.714761,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938221912,Russian Federation,RU,53.815222,51.390068,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938222557,United States of America,US,34.043924,-117.422747,2026,1,Prunus ilicifolia,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938233587,Hungary,HU,46.956659,19.715583,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938234124,New Zealand,NZ,-40.676389,175.300022,2026,1,Prunus campanulata,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938234145,United Kingdom of Great Britain and Northern Ireland,GB,51.494245,-2.769478,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938244892,France,FR,48.581983,-1.985185,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938249600,Russian Federation,RU,53.931717,51.299379,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938249923,United States of America,US,41.802509,-91.552147,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938253704,United Kingdom of Great Britain and Northern Ireland,GB,50.874233,-0.011014,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938254063,United States of America,US,32.734837,-117.143983,2026,1,Prunus ilicifolia,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938254429,United Kingdom of Great Britain and Northern Ireland,GB,51.321304,0.198388,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938259990,United States of America,US,30.506857,-86.460268,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938260698,Russian Federation,RU,53.931719,51.299319,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938263755,Spain,ES,40.691781,-3.0837,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938266223,Spain,ES,28.474449,-16.310874,2026,1,Prunus hixa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938275485,United Kingdom of Great Britain and Northern Ireland,GB,53.560301,-1.963595,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938276997,Russian Federation,RU,53.931631,51.299898,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938280092,United States of America,US,34.393792,-118.081025,2026,1,Prunus ilicifolia,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938280788,France,FR,48.483777,7.466603,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938291281,Russian Federation,RU,49.917987,41.469559,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938292575,United States of America,US,47.751288,-122.543882,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938297786,Canada,CA,49.302,-123.135853,2026,1,Prunus lusitanica,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938297911,Russian Federation,RU,50.056808,41.485788,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938307332,Italy,IT,45.853537,8.797842,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938311399,United States of America,US,42.342578,-72.195075,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938313515,New Zealand,NZ,-41.27053,174.764799,2026,1,Prunus serrulata,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938316114,United Kingdom of Great Britain and Northern Ireland,GB,54.871235,-1.479843,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938324041,United States of America,US,34.128386,-117.794442,2026,1,Prunus ilicifolia,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938325697,Ireland,IE,53.444273,-6.159441,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938347152,United States of America,US,39.787208,-77.238924,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938350906,United States of America,US,34.54487,-86.950783,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938353840,United States of America,US,32.672297,-116.096794,2026,1,Prunus fremontii,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938373594,Poland,PL,49.752686,19.623529,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938381824,United States of America,US,39.400863,-79.707022,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938385549,Russian Federation,RU,53.931615,51.299695,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938386153,Russian Federation,RU,49.902779,41.477932,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938394311,United States of America,US,47.592372,-121.98452,2026,1,Prunus lusitanica,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938401061,New Zealand,NZ,-42.594871,172.697095,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938404176,United States of America,US,42.450504,-76.364949,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938406436,Spain,ES,36.778622,-3.109232,2026,1,Prunus amygdalus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938406602,United States of America,US,34.676347,-120.410303,2026,1,Prunus fasciculata,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938416030,Chinese Taipei,TW,24.372058,120.808013,2026,1,Prunus phaeosticta,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938418551,United States of America,US,33.052568,-97.704622,2026,1,Prunus mexicana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938419198,United States of America,US,33.077792,-96.713887,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938442546,United States of America,US,33.077889,-96.714153,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938458258,United States of America,US,32.752827,-97.16641,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938462584,Czechia,CZ,50.080502,15.950125,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938463325,New Zealand,NZ,-41.270794,174.764068,2026,1,Prunus serrulata,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938485996,Canada,CA,43.54646,-80.223538,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938493759,United States of America,US,33.110142,-116.474419,2026,1,Prunus fremontii,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938499078,United Kingdom of Great Britain and Northern Ireland,GB,53.355018,-2.894739,2026,1,Prunus laurocerasus,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938499686,United Kingdom of Great Britain and Northern Ireland,GB,52.252136,-1.368983,2026,1,Prunus spinosa,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938509606,United States of America,US,42.176512,-83.65438,2026,1,Prunus serotina,HUMAN_OBSERVATION
+Prunus dulcis,Almond,Nut tree,3020559,5938521996,United States of America,US,35.336547,-96.132819,2026,1,Prunus caroliniana,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,5939221571,Sweden,SE,60.14447,15.18817,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,5959000417,Germany,DE,48.591293,8.7042,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,5994801484,Sweden,SE,56.78148,15.88785,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6043367942,Sweden,SE,56.69706,16.51489,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6115874669,Sweden,SE,59.04416,16.80955,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6131270110,New Zealand,NZ,-41.292662,173.833588,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6132943547,Sweden,SE,59.84233,17.5916,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6133581801,New Zealand,NZ,-40.8152,172.9568,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6179075707,South Africa,ZA,-32.981876,19.028004,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6261358649,Belarus,BY,52.111406,26.102473,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6528037299,Switzerland,CH,47.06348,7.53736,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539296346,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539299496,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539327256,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539503854,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539573535,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539592269,India,IN,9.28276,76.77024,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539688364,India,IN,11.02703,76.43816,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539764982,India,IN,9.28276,76.77024,2026,1,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6129679169,Germany,DE,49.463188,8.480959,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6147087630,Sweden,SE,59.84233,17.5916,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6159057948,Sweden,SE,59.52024,14.98526,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6162877567,France,FR,43.556682,3.912305,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6163385711,Chile,CL,-39.834247,-73.215662,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171268688,Australia,AU,-42.73442,147.439667,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6236318349,New Zealand,NZ,-40.744132,175.118433,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6252705582,United States of America,US,39.318418,-121.125436,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6527857662,Switzerland,CH,47.40895,9.26054,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539525086,India,IN,9.28276,76.77024,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539541604,India,IN,9.09477,76.84096,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539591087,India,IN,11.02703,76.43816,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539820990,India,IN,11.02703,76.43816,2026,2,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171617853,Germany,DE,49.972355,8.577616,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171619913,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171638530,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171641890,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6171643999,Germany,DE,51.098186,7.07276,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6178158119,Germany,DE,49.998787,8.571163,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6178162957,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6178166824,Germany,DE,50.14447,8.6565,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6178167190,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6178168353,Germany,DE,50.14447,8.6565,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6179740892,Sweden,SE,59.84248,17.59182,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6181595910,Belgium,BE,50.96158,4.50314,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6181723957,Germany,DE,49.463188,8.480959,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6181724328,Germany,DE,51.098186,7.07276,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6181732150,Germany,DE,49.751873,8.843994,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6181998829,Sweden,SE,59.05674,17.21569,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6182007694,Sweden,SE,59.05721,17.21574,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6182487487,Netherlands,NL,51.95,4.35,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6182509532,Netherlands,NL,52.45,4.55,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6182827266,Netherlands,NL,51.7,5.25,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6183489778,Netherlands,NL,51.85,4.2,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184279517,Belgium,BE,50.98232,4.70855,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184279639,Belgium,BE,50.89832,4.20632,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184597590,Germany,DE,49.998787,8.571163,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184603100,Germany,DE,49.998787,8.571163,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184603194,Germany,DE,51.616657,7.950153,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184605330,Germany,DE,50.086914,8.560281,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184608731,Germany,DE,49.944443,8.457738,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184613713,Germany,DE,50.885834,6.872699,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184726246,United Kingdom of Great Britain and Northern Ireland,GB,55.958361,-3.177843,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184743616,Germany,DE,48.900898,8.573639,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6184753353,United Kingdom of Great Britain and Northern Ireland,GB,54.28718,-0.41494,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6185136586,Luxembourg,LU,49.960574,5.98055,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6185268647,France,FR,48.197501,7.314566,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6185270391,Luxembourg,LU,49.960426,5.980308,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6185710630,Luxembourg,LU,49.960426,5.980308,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186207021,Sweden,SE,59.84266,17.59152,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186677414,Netherlands,NL,52.35,4.55,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6194236063,Belgium,BE,50.99341,4.54852,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6195981925,New Zealand,NZ,-43.520352,172.663539,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6527865694,Switzerland,CH,47.19787,7.80154,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6527902030,Switzerland,CH,46.86377,9.57005,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539374296,India,IN,9.28137,76.51992,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539482295,India,IN,9.37979,76.41527,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539580508,India,IN,10.91007,75.96342,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539616635,India,IN,10.90999,75.96331,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539636541,India,IN,11.02703,76.43816,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6539788433,India,IN,9.37418,76.41925,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6546922520,United Kingdom of Great Britain and Northern Ireland,GB,51.601805,-0.601061,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6546970297,United Kingdom of Great Britain and Northern Ireland,GB,51.73102,-1.23188,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6547068976,United Kingdom of Great Britain and Northern Ireland,GB,51.73737,-1.22547,2026,3,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186585806,Netherlands,NL,51.8,5.9,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186689889,Netherlands,NL,52.0,4.9,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186959323,Belgium,BE,51.0416,3.72805,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186959415,Belgium,BE,50.91689,4.34823,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186959656,Belgium,BE,51.04157,3.72809,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6186963833,Belgium,BE,51.18269,4.19023,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6187783699,Germany,DE,53.182617,8.360424,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6187794952,Germany,DE,51.950169,6.999679,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193116660,Netherlands,NL,52.9,6.3,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193130136,Netherlands,NL,52.6,4.6,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193156480,Netherlands,NL,52.25,6.1,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193273877,Netherlands,NL,51.75,3.85,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193462755,Netherlands,NL,53.2,6.7,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6193488911,Netherlands,NL,52.05,4.25,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6194232256,Belgium,BE,51.24444,4.89949,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6194235394,Belgium,BE,51.06802,4.29086,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus domestica,Plum,Fruit tree,7931731,6194235772,Belgium,BE,51.22337,2.92684,2026,4,Prunus domestica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6003691013,Spain,ES,28.686504,-17.79513,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6084206013,Spain,ES,28.486317,-17.831762,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6129921439,France,FR,43.632224,3.862056,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6129946866,South Africa,ZA,-25.777622,28.29999,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130025903,South Africa,ZA,-26.511669,28.067208,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130209725,Mexico,MX,25.461393,-100.247196,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130228762,South Africa,ZA,-28.612748,32.192768,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130268361,United States of America,US,28.648512,-96.623358,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130289622,United States of America,US,35.028672,-85.245063,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6130961686,Mexico,MX,25.618744,-100.360242,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6131054529,Nepal,NP,27.668798,85.335117,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6131220231,New Zealand,NZ,-43.517384,172.688019,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6131376435,New Zealand,NZ,-43.51253,172.557279,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6131547244,United States of America,US,19.77832,-155.829553,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6133216070,Mexico,MX,25.231234,-100.043977,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6133391702,South Africa,ZA,-25.997173,27.564605,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6133483878,South Africa,ZA,-27.097225,26.191482,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6133587411,Mexico,MX,25.622633,-100.37855,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6147317804,Mexico,MX,25.547517,-100.270787,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6178474317,Argentina,AR,-31.457355,-64.491607,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6184960675,Chile,CL,-29.898012,-71.226132,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6185217915,New Zealand,NZ,-37.421122,175.731308,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6261355363,Belarus,BY,52.111406,26.102473,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6349256392,Australia,AU,-33.723612,150.382694,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6452568857,Colombia,CO,7.137113,-72.665495,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469591053,South Africa,ZA,-32.057767,26.796162,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469601396,Mexico,MX,19.495072,-99.363883,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469710792,Viet Nam,VN,22.339175,103.824306,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469754659,Mexico,MX,19.309518,-100.131716,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469955472,Mexico,MX,25.610742,-100.356688,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470081879,Argentina,AR,-30.79516,-64.467922,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470147536,Brazil,BR,-25.517225,-49.230964,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470484349,Thailand,TH,16.736914,101.575434,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470519069,Mexico,MX,18.836245,-97.150969,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470669635,New Zealand,NZ,-39.546129,174.120599,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470767926,Mexico,MX,20.513638,-97.46222,2026,1,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6147335974,United States of America,US,33.214205,-97.152619,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6147385567,South Africa,ZA,-26.856358,27.342368,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6159139686,South Africa,ZA,-26.775112,27.434975,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6159350807,South Africa,ZA,-26.775093,27.434982,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6159360155,South Africa,ZA,-26.857375,27.345468,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6159451325,Mexico,MX,19.190326,-100.088958,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6159607591,United States of America,US,33.21428,-97.152558,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162781864,United States of America,US,33.21425,-97.15255,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162791774,Portugal,PT,32.70217,-16.809344,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162860228,Spain,ES,39.490958,-0.44215,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162908103,United States of America,US,32.785683,-97.685792,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162916917,New Zealand,NZ,-43.520209,172.664041,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162945175,South Africa,ZA,-26.747888,27.39843,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6162958914,Australia,AU,-33.457518,150.201367,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6163013475,United States of America,US,30.256789,-97.890275,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6163380350,Australia,AU,-27.650578,151.891983,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6163393577,New Zealand,NZ,-44.724609,171.033295,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6170858068,New Zealand,NZ,-37.560083,175.755311,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6171122205,South Africa,ZA,-26.670477,26.442251,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6171306591,Morocco,MA,31.44941,-5.967523,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6171369194,Mexico,MX,19.285794,-97.946383,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6178535224,United States of America,US,30.237397,-97.761528,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6179023443,New Zealand,NZ,-34.783425,173.085114,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6179055759,Nepal,NP,27.71864,85.317566,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6179267184,United States of America,US,30.182342,-97.757697,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6320527583,United States of America,US,29.453844,-98.490829,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6320990940,United States of America,US,29.576013,-98.665078,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6349315501,Australia,AU,-33.711402,151.130715,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6451690002,Mexico,MX,25.623092,-100.375045,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6451747986,Nepal,NP,27.850172,84.482203,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469595733,Mexico,MX,18.864,-97.110978,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469615909,China,CN,28.807717,104.796662,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469634589,United States of America,US,32.646253,-95.234917,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469669563,Spain,ES,40.189142,0.185828,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469705499,United States of America,US,30.064054,-81.623192,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469719617,United States of America,US,29.330423,-98.453529,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469743985,Mexico,MX,19.53114,-98.725584,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469783512,China,CN,24.977522,102.793274,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469813571,Mexico,MX,19.777679,-99.862056,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469926758,Hong Kong,HK,22.375078,114.263297,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469944877,Mexico,MX,18.83403,-97.162108,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469945656,United Kingdom of Great Britain and Northern Ireland,GB,52.381313,-1.696012,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469957015,Australia,AU,-33.761687,150.880408,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6469974068,United States of America,US,33.097866,-83.238983,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470042588,New Zealand,NZ,-35.305046,174.119283,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470091985,United States of America,US,29.55257,-98.529157,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470103655,Spain,ES,28.65157,-17.773798,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470121598,Mexico,MX,17.047387,-97.773276,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470132325,Mexico,MX,18.983638,-99.235042,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470244331,Chile,CL,-33.503878,-70.782873,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470298555,Mexico,MX,19.777708,-99.86205,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470305847,Spain,ES,38.271603,-1.517217,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470383375,Mexico,MX,25.547638,-100.270762,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470476734,New Zealand,NZ,-43.607177,172.35461,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470579886,Mexico,MX,25.357178,-101.03373,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470581030,Portugal,PT,37.090058,-8.329598,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470630121,United States of America,US,30.041434,-89.92263,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470641104,Honduras,HN,14.034917,-87.077519,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470644354,India,IN,32.218513,76.151846,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470659631,United States of America,US,29.702449,-95.791415,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470670837,United States of America,US,30.051482,-89.879427,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470681492,Mexico,MX,19.320993,-97.930323,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470687411,Australia,AU,-37.926449,145.243422,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus persica,Peach,Fruit tree,8149923,6470741792,Chile,CL,-39.834245,-73.215683,2026,2,Prunus persica,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,5937966377,Germany,DE,49.334885,8.544188,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6131657534,New Zealand,NZ,-41.263864,173.295437,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6195293937,South Africa,ZA,-29.241979,27.381329,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6261357581,Belarus,BY,52.111406,26.102473,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539276472,India,IN,9.07505,76.63854,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539313089,India,IN,9.07505,76.63854,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539534561,India,IN,8.75994,77.11688,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539635421,India,IN,9.07505,76.63854,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539822477,India,IN,9.07505,76.63854,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539855084,India,IN,9.07505,76.63854,2026,1,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6163015898,United States of America,US,34.129864,-117.238358,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6163042581,France,FR,42.632422,2.756348,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6163295680,New Zealand,NZ,-41.389241,173.122443,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6178169325,Germany,DE,50.774555,6.083116,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539420787,India,IN,9.07505,76.63854,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539633216,India,IN,9.07505,76.63854,2026,2,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6179355011,United States of America,US,35.681897,-105.928322,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6184614400,Hungary,HU,47.618431,16.793289,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6184724952,Australia,AU,-37.643703,145.399848,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6184831068,Ukraine,UA,49.669349,34.974591,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6184903321,Germany,DE,48.899759,8.575109,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185121802,Russian Federation,RU,45.203964,39.673221,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185175725,Austria,AT,48.206013,16.55607,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185454666,Kazakhstan,KZ,43.26247,76.931056,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185770739,Kazakhstan,KZ,43.254602,76.994909,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185882749,Ukraine,UA,47.189781,30.903094,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6185886911,Russian Federation,RU,44.758886,37.384794,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188150853,Ukraine,UA,44.553712,33.698812,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188312618,Russian Federation,RU,44.875743,37.31507,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188469560,Kazakhstan,KZ,43.234213,76.870392,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188547109,Kazakhstan,KZ,43.215061,76.927008,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6195233830,Russian Federation,RU,44.038692,43.09389,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6195803194,Kazakhstan,KZ,43.234531,76.920433,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235496029,Czechia,CZ,49.580176,17.264177,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6352411795,Kazakhstan,KZ,43.166262,76.602476,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6528267460,Switzerland,CH,46.29887,7.53598,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6551248718,Ukraine,UA,49.669347,34.974575,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6552757851,Ukraine,UA,49.59832,34.596528,2026,3,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6187912962,Austria,AT,46.936911,15.359105,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188115192,Austria,AT,47.085951,11.473825,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188193479,Ukraine,UA,50.819498,24.45371,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188272519,France,FR,45.034201,-0.057636,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6188355295,Kazakhstan,KZ,43.201285,76.851797,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6195323920,Ukraine,UA,49.237561,31.914493,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6195680454,Russian Federation,RU,50.156882,38.144663,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234187714,China,CN,32.969105,112.508316,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234265598,Kazakhstan,KZ,43.169645,76.799098,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234281330,Ukraine,UA,48.034284,37.745185,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234287233,Czechia,CZ,49.601803,17.238484,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234358287,Ukraine,UA,49.490612,31.98013,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234472507,Ukraine,UA,48.604971,26.781856,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234688124,United States of America,US,33.574867,-116.415742,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6234910363,Ukraine,UA,48.60474,26.781979,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235017331,Kazakhstan,KZ,43.156013,76.790688,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235194794,Ukraine,UA,50.424484,30.498432,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235591587,Kyrgyzstan,KG,42.328458,77.917995,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235686121,United States of America,US,40.857527,-96.736812,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235713346,Ukraine,UA,50.337867,30.507408,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235797471,Ukraine,UA,50.52842,30.51983,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235864415,Czechia,CZ,49.807868,18.241522,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235919555,Ukraine,UA,50.52825,30.51953,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235929817,Ukraine,UA,50.456701,30.389345,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6235960972,Belarus,BY,52.080933,23.680713,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6236047691,Belarus,BY,52.081804,23.676367,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6236126807,Ukraine,UA,50.109721,36.115503,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6236237234,Ukraine,UA,49.811508,34.52177,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6236392979,Ukraine,UA,48.603313,26.777895,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6236538720,Ukraine,UA,50.376192,30.558144,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6251483679,Ukraine,UA,49.56248,32.601182,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6251598686,Romania,RO,46.25038,25.19225,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6251637361,Kazakhstan,KZ,43.104517,76.951497,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252023701,Russian Federation,RU,43.165105,131.903065,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252318882,Kazakhstan,KZ,43.255065,76.995113,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252441248,France,FR,43.311102,1.532781,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252562191,Kazakhstan,KZ,43.096797,76.955358,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252745321,Italy,IT,44.121056,9.707969,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6252925566,Ukraine,UA,50.46022,30.670074,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6253027343,Kazakhstan,KZ,43.104413,76.922933,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6253116348,Kyrgyzstan,KG,42.341427,77.99153,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6273231175,Kazakhstan,KZ,43.103633,76.932841,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6273771866,Kazakhstan,KZ,43.374353,77.194561,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6273835486,Kazakhstan,KZ,43.215253,76.926877,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6274029704,Kazakhstan,KZ,43.215253,76.926877,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6320489547,Kazakhstan,KZ,43.105072,76.9124,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6320924376,France,FR,44.092607,0.62651,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6334275034,Uzbekistan,UZ,41.23835,69.19194,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6352992923,Australia,AU,-33.759728,150.860874,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6353350352,Kazakhstan,KZ,43.229681,76.861977,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6360333375,Spain,ES,40.58,0.3,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6413190915,Kazakhstan,KZ,43.2171,76.915161,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6423062444,Slovenia,SI,46.449164,15.068233,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6441772094,Russian Federation,RU,47.233724,38.867753,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6527633576,Switzerland,CH,46.16319,7.01789,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6527685467,Switzerland,CH,46.1636,7.14736,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6528061000,Switzerland,CH,47.14119,9.11956,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539266645,India,IN,9.07505,76.63854,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539367932,India,IN,9.07505,76.63854,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539532452,India,IN,9.07505,76.63854,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6539573313,India,IN,9.07505,76.63854,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Prunus armeniaca,Apricot,Fruit tree,7818643,6552732975,Ukraine,UA,48.688277,30.241497,2026,4,Prunus armeniaca,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6130791646,Nepal,NP,28.363742,84.448134,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6130820709,India,IN,25.182433,75.803883,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6131112508,India,IN,25.203236,75.793381,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133054208,India,IN,15.643486,73.827523,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133121988,Nepal,NP,28.204492,83.962578,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133143345,India,IN,8.76655,77.097038,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133359143,China,CN,24.486301,97.622267,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133481162,India,IN,18.273909,73.600316,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133496191,India,IN,19.075945,73.058826,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133503637,China,CN,24.486301,97.622267,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6133557408,India,IN,9.740417,76.917791,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159357218,United States of America,US,27.189453,-81.30263,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6171007754,Thailand,TH,14.356742,100.568443,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6179058670,India,IN,19.450353,72.839892,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539182750,India,IN,26.6932,92.80882,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539254533,India,IN,28.65607,77.12065,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539275963,India,IN,26.69317,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539300905,India,IN,26.69321,92.80884,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539303298,India,IN,26.69315,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539305653,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539311509,India,IN,26.69321,92.80883,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539313597,India,IN,11.60156,75.59198,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539318980,India,IN,26.69317,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539320317,India,IN,26.69312,92.80881,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539327811,India,IN,26.69317,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539345631,India,IN,11.82593,75.4293,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539347107,India,IN,26.69327,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539355318,India,IN,26.69315,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539376375,India,IN,26.69321,92.80883,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539404298,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539440176,India,IN,11.82616,75.42909,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539440344,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539445621,India,IN,26.69327,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539480990,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539494794,India,IN,26.6932,92.80882,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539496653,India,IN,18.56037,73.82686,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539510495,India,IN,26.69315,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539534760,India,IN,10.29654,76.88011,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539539010,India,IN,8.75994,77.11688,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539550405,India,IN,26.69313,92.8087,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539571854,India,IN,26.69321,92.80884,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539573081,India,IN,11.60156,75.59198,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539581801,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539603262,India,IN,28.65607,77.12065,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539603811,India,IN,26.6932,92.80882,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539604653,India,IN,26.69318,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539611662,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539615357,India,IN,26.69321,92.80883,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539623395,India,IN,18.56037,73.82686,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539631328,India,IN,26.69322,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539639585,India,IN,26.69312,92.80881,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539651719,India,IN,26.69318,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539674594,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539676404,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539690326,India,IN,18.56037,73.82686,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539690712,India,IN,18.56037,73.82686,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539692527,India,IN,26.69318,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539694174,India,IN,26.69327,92.80885,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539705750,India,IN,26.69322,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539706644,India,IN,26.69321,92.80884,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539729508,India,IN,26.69313,92.8087,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539762670,India,IN,26.69312,92.80881,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539765371,India,IN,11.60156,75.59198,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539791098,India,IN,26.69322,92.8088,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539808492,India,IN,11.60156,75.59198,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539825537,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539839491,India,IN,11.09328,76.78693,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539843163,India,IN,26.69313,92.8087,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539845345,India,IN,11.82394,75.42846,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539851479,India,IN,18.56037,73.82686,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6539866562,India,IN,9.12234,76.53254,2026,1,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147186081,India,IN,18.80267,72.940147,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147224873,India,IN,25.170958,75.831989,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147264677,India,IN,25.1654,75.834264,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147268596,Australia,AU,-12.335424,130.904416,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147302428,India,IN,25.173928,75.83182,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147362956,India,IN,25.169203,75.833569,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147385561,India,IN,25.169203,75.833569,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147418974,India,IN,25.170903,75.831153,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147497125,India,IN,25.137611,75.811381,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147497449,India,IN,25.170958,75.831989,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147508424,India,IN,25.170958,75.831989,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147629243,India,IN,25.175468,75.831631,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6147661777,India,IN,25.169203,75.833569,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159188450,India,IN,25.170491,75.832648,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159217160,India,IN,25.166615,75.83206,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159297754,India,IN,13.300121,77.541125,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159439853,India,IN,22.376815,73.72556,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159474368,India,IN,15.492031,73.774622,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6159583134,India,IN,12.975249,77.592887,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6162846243,India,IN,25.170786,75.832383,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6162859873,Hong Kong,HK,22.440741,114.033452,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6162946781,India,IN,28.551578,77.18259,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6162980224,India,IN,22.648174,88.376804,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6162986769,India,IN,25.170786,75.832383,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6163007105,India,IN,18.536273,73.788377,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6163022228,India,IN,25.170786,75.832383,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6163032122,Nepal,NP,27.552943,84.429834,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6163154472,Macao,MO,22.15843,113.571176,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Bombax ceiba,Solai (Silk Cotton),Tree,3152226,6163230961,India,IN,25.170786,75.832383,2026,2,Bombax ceiba,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5937750522,Belgium,BE,51.19993,4.74939,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5937750621,Belgium,BE,50.84828,4.75091,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5937750834,Belgium,BE,50.972,5.03156,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5937751460,Belgium,BE,51.12551,4.25774,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5937972471,Germany,DE,49.334885,8.544188,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938061472,United States of America,US,40.598989,-74.470564,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938101123,Austria,AT,48.000212,16.269282,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938117998,Russian Federation,RU,45.207846,39.670429,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938149687,United States of America,US,39.930836,-75.723533,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938168245,France,FR,48.564943,7.647298,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938283115,United States of America,US,42.259428,-83.69532,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938311543,Chile,CL,-33.443955,-70.668245,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938312156,Austria,AT,47.45342,16.426985,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938352969,Italy,IT,45.854166,8.794584,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938385287,United States of America,US,40.598989,-74.470564,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938418020,United States of America,US,40.598989,-74.470564,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938462383,Canada,CA,43.915615,-79.703135,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938485528,Hungary,HU,47.669055,19.067192,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938503093,Germany,DE,52.661832,9.804217,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938521942,Austria,AT,47.267422,11.338252,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938536892,United States of America,US,38.987649,-76.922087,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938567359,Hungary,HU,46.889632,19.79978,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938626123,Poland,PL,50.016072,19.799292,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938698901,United States of America,US,38.523125,-79.570748,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5938715857,United States of America,US,38.562773,-76.068538,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5956847100,Belgium,BE,51.23023,5.17699,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5958983491,Germany,DE,48.876431,9.600506,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5994659388,Sweden,SE,57.6405,18.31859,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5994837477,Sweden,SE,57.49047,18.13054,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995585667,Belgium,BE,51.05993,4.67213,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995586140,Belgium,BE,51.04303,3.67311,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995586379,Belgium,BE,51.02581,5.53364,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995586852,Belgium,BE,51.29685,4.82944,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995587144,Belgium,BE,51.33239,5.12871,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995587177,Belgium,BE,50.77352,4.33981,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,5995587360,Belgium,BE,51.30687,4.83584,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6003685154,Germany,DE,51.170254,9.381436,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6003687043,Germany,DE,51.544735,6.696167,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6003689054,Germany,DE,49.459076,8.67939,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6003698129,Germany,DE,51.512909,7.018762,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063639352,Belgium,BE,50.95127,5.39973,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063639564,Belgium,BE,51.23535,5.17658,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063639816,Belgium,BE,50.97856,3.7999,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063639971,Belgium,BE,51.08576,4.46834,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063639997,Belgium,BE,50.92125,3.56167,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063640837,Belgium,BE,51.03505,4.9008,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063640942,Belgium,BE,50.76368,3.91943,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063641004,Belgium,BE,50.76333,3.91967,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063641069,Belgium,BE,51.17901,4.64884,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6063641174,Belgium,BE,51.18739,4.33771,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6117400347,Belgium,BE,50.7989,4.98004,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6117400614,Belgium,BE,50.80674,4.97902,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6117400985,Belgium,BE,50.7743,4.90281,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6117401324,Belgium,BE,50.8587,3.64675,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6119033956,Switzerland,CH,46.00525,8.9419,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129687523,Germany,DE,49.350803,8.638679,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129833349,United States of America,US,36.836334,-76.284657,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129854345,Austria,AT,46.80183,15.877428,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129875022,United States of America,US,42.814372,-77.405542,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129897181,Austria,AT,46.964608,15.881003,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129921513,United States of America,US,43.192288,-77.513282,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129921657,Argentina,AR,-31.470448,-64.558937,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129941365,United States of America,US,39.522653,-119.835005,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129950783,United States of America,US,41.274811,-75.869846,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129959518,Austria,AT,48.022612,16.863002,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129979362,United States of America,US,41.526794,-90.521159,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6129984112,Austria,AT,47.232317,16.232383,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130000641,Austria,AT,47.243968,16.24663,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130006904,New Zealand,NZ,-41.199928,172.86957,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130030555,Hungary,HU,46.825203,18.865267,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130068364,United States of America,US,42.698958,-83.235475,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130090805,United States of America,US,39.97003,-75.18622,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130110174,United States of America,US,39.146245,-75.509577,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130112717,United States of America,US,43.19261,-77.512781,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130124766,Chile,CL,-33.495645,-70.76895,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130142715,Austria,AT,48.086817,17.065353,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130143627,Canada,CA,45.394308,-72.731542,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130163626,Russian Federation,RU,54.831499,37.645275,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130200482,United States of America,US,40.609471,-74.574019,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130208202,United States of America,US,44.18161,-88.299973,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130255464,United States of America,US,43.204698,-77.484099,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130265094,United States of America,US,43.057244,-88.188977,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130265325,Austria,AT,47.989068,17.118719,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130273239,United States of America,US,43.546142,-116.105703,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130287648,United States of America,US,35.808356,-93.470438,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130298659,Spain,ES,41.54517,1.873999,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130307437,United States of America,US,36.836591,-76.284578,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130339765,United States of America,US,36.445805,-81.909173,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130354347,France,FR,47.752899,7.345151,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130361062,Germany,DE,52.527152,13.002733,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130393949,United States of America,US,43.226206,-77.421592,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130417607,Austria,AT,46.733815,15.574514,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130441175,Australia,AU,-37.930217,145.456552,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130454628,United States of America,US,43.237357,-77.522479,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130518806,United States of America,US,43.495096,-116.191817,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130520683,United States of America,US,37.782293,-80.399599,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130532633,Hungary,HU,46.955627,19.715465,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130544649,United States of America,US,39.521963,-119.821463,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130580423,United States of America,US,42.891411,-78.717896,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Robinia pseudoacacia,False Acacia,Tree,5352251,6130585507,United States of America,US,39.980697,-75.203804,2026,1,Robinia pseudoacacia,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5938564551,India,IN,24.387282,92.165722,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6130234484,China,CN,30.986467,117.850037,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6130686686,United States of America,US,27.638805,-80.676978,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6130803032,United States of America,US,27.972486,-80.769819,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6131490104,United States of America,US,44.590523,-123.269206,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6334653784,India,IN,26.914606,75.731901,2026,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6159541742,India,IN,26.894367,77.278508,2026,2,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6163178117,India,IN,19.148829,72.986393,2026,2,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6171218563,China,CN,27.744701,113.402351,2026,2,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6171158542,Japan,JP,36.042434,139.601239,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6176991954,Belgium,BE,51.05976,3.72237,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6178620042,Japan,JP,35.437238,139.387095,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6178669250,China,CN,30.926562,121.911356,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6181593865,Belgium,BE,51.05994,3.7222,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6185428659,China,CN,36.237663,120.55558,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6185741884,Japan,JP,35.647671,139.447285,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195253678,United States of America,US,38.843445,-77.060197,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195933175,United States of America,US,44.590523,-123.269201,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6333863767,Japan,JP,35.396575,139.477007,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6334221315,China,CN,30.17346,118.9052,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6579915726,Japan,JP,34.524387,136.64689,2026,3,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6188010718,"Korea, Republic of",KR,35.999034,129.252859,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6188600754,Japan,JP,35.653593,139.461269,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6193342981,Netherlands,NL,51.55,5.1,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6194236209,Belgium,BE,51.19123,4.53542,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195406798,China,CN,31.122203,121.654612,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195423421,Japan,JP,35.601917,139.348314,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195824757,China,CN,35.983566,119.400452,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6195924466,China,CN,31.120603,121.653663,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6213782024,Belgium,BE,51.19651,4.44215,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6227625315,Netherlands,NL,52.0,4.55,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6234221645,Japan,JP,35.647641,139.440411,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6234332240,Indonesia,ID,-7.983197,112.904669,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6234378714,Japan,JP,35.654023,139.446996,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6234771971,Japan,JP,33.95851,131.266205,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6235225554,United Kingdom of Great Britain and Northern Ireland,GB,52.620919,1.289717,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6273573858,Japan,JP,35.549603,139.429855,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6274139549,Japan,JP,35.429107,139.392102,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6334445328,China,CN,32.207647,119.117917,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6342835286,Netherlands,NL,51.55,3.45,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6343215172,Netherlands,NL,51.55,3.65,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6413952401,Australia,AU,-37.063636,144.218383,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6451655334,China,CN,36.06623,120.38299,2026,4,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6274142600,Romania,RO,46.25992,25.219872,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6320466477,Canada,CA,43.572493,-79.667736,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6328394328,Belgium,BE,51.04712,3.74449,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6334272579,South Africa,ZA,-29.102654,26.205248,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6334895325,South Africa,ZA,-26.05953,28.040886,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6344234807,Netherlands,NL,52.25,5.1,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6346268319,Belgium,BE,51.215,3.24284,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6346415322,Belgium,BE,51.17633,2.93652,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6398944665,Colombia,CO,4.43923,-73.85327,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6399296469,Colombia,CO,4.649585,-74.049,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6422841032,Russian Federation,RU,53.212947,34.364044,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6431397835,Russian Federation,RU,56.831041,60.536997,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6441073750,"Korea, Republic of",KR,34.768416,126.364282,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6527562219,Switzerland,CH,47.19391,8.46133,2026,5,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6360498359,Belgium,BE,50.91292,2.60746,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6394952306,Sweden,SE,57.92285,11.58484,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6401596328,Belgium,BE,50.87155,3.8079,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6413532932,Australia,AU,-31.964302,115.900923,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6413634784,China,CN,37.456336,120.819733,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6419353375,Sweden,SE,58.46309,13.84831,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6423138834,Russian Federation,RU,48.717456,44.503302,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6479300463,Russian Federation,RU,43.174516,131.910144,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6517601320,Belgium,BE,50.87209,3.80782,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6518386935,Russian Federation,RU,55.648658,37.337308,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6535642377,Sweden,SE,58.50328,13.84609,2026,6,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6451978422,India,IN,22.44765,88.101871,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6479726694,Russian Federation,RU,42.850645,132.692572,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6498721349,Russian Federation,RU,53.219986,34.353115,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6499134478,Russian Federation,RU,53.219938,34.35323,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6500011122,Russian Federation,RU,56.473778,85.024573,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6518475654,Russian Federation,RU,57.162834,65.562133,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6519058795,Russian Federation,RU,46.657032,141.852493,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6519310762,Russian Federation,RU,54.301788,46.198375,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6520246701,Russian Federation,RU,57.162838,65.562166,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6554309311,Belgium,BE,50.7802,3.48279,2026,7,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6500638413,Sweden,SE,56.87492,14.8583,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6500872446,Sweden,SE,56.87062,14.85896,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6504030307,Belgium,BE,51.01398,5.48913,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6504069317,Belgium,BE,51.01396,5.48915,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6520027163,Russian Federation,RU,52.614157,45.81682,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6520140460,Belarus,BY,53.869934,25.284784,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6540390342,Belgium,BE,51.01396,5.48915,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6551100673,Russian Federation,RU,43.125686,131.97687,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6551397304,Russian Federation,RU,42.916296,132.490005,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6557784315,Sweden,SE,56.87439,14.85887,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6558227304,Norway,NO,59.911574,10.762868,2026,8,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6551769154,Russian Federation,RU,43.081483,131.851508,2026,9,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6567185355,India,IN,17.425514,78.544518,2026,9,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6567381611,New Zealand,NZ,-43.583166,172.563579,2026,9,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,6579738750,India,IN,18.485477,73.826858,2026,9,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5004631210,Sweden,SE,57.70533,12.00304,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5004711781,Sweden,SE,57.70533,12.00304,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5005143998,Netherlands,NL,52.1,5.1,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5051976868,Sweden,SE,57.70533,12.00304,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5052013420,Sweden,SE,57.70535,12.003,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5052062831,Sweden,SE,57.70535,12.003,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Brassica juncea,Mustard,Crop,3042751,5063248568,India,IN,24.979061,75.640014,2025,1,Brassica juncea,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,5994847576,Sweden,SE,57.62976,18.28223,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6043348163,Sweden,SE,56.34356,16.53134,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6063640453,Belgium,BE,50.91113,4.36427,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6130737177,France,FR,43.813352,5.410628,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6150837144,Netherlands,NL,52.35,4.85,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6151602814,Netherlands,NL,51.95,4.3,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6152061388,Netherlands,NL,51.9,4.5,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6163446750,Brazil,BR,-22.811389,-43.590833,2026,1,Lavandula angustifolia,PRESERVED_SPECIMEN
+Lavandula angustifolia,Lavender,Herb,2927305,6188304627,New Zealand,NZ,-44.092298,171.244347,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6261354500,Belarus,BY,52.119359,26.090288,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6352439104,United Kingdom of Great Britain and Northern Ireland,GB,52.167782,0.10451,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6413301138,New Zealand,NZ,-44.69393,169.136872,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6422711817,New Zealand,NZ,-44.694078,169.136658,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527575459,Switzerland,CH,46.47373,6.36443,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527824225,Switzerland,CH,47.19844,7.47162,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528181640,Switzerland,CH,47.0634,7.60318,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528189810,Switzerland,CH,47.15309,7.73531,2026,1,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6147549344,United Kingdom of Great Britain and Northern Ireland,GB,53.946426,-1.091594,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6152107781,Netherlands,NL,52.35,4.85,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6159322886,United Kingdom of Great Britain and Northern Ireland,GB,51.314556,-0.165308,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6159447277,Colombia,CO,5.512762,-72.874693,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6160544311,Belgium,BE,51.07645,2.6653,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6160545715,Belgium,BE,50.83477,4.46477,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6163376800,United Kingdom of Great Britain and Northern Ireland,GB,51.460314,-0.095472,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6170076862,Netherlands,NL,52.0,4.45,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6170346649,Netherlands,NL,52.35,4.85,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6171244657,New Zealand,NZ,-43.643118,172.46651,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527741596,Switzerland,CH,46.51986,6.49384,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528193908,Switzerland,CH,46.42745,6.23524,2026,2,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6169540407,Netherlands,NL,51.6,4.1,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6171290646,Austria,AT,46.746772,13.134675,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6176992541,Belgium,BE,50.96761,4.00354,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6178776346,France,FR,43.719238,6.966667,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6178785911,Spain,ES,42.197237,2.156507,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6181594596,Belgium,BE,51.18255,3.20733,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6181594670,Belgium,BE,51.18254,3.20733,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6181595992,Belgium,BE,51.01986,3.76491,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6181597263,Belgium,BE,50.89442,4.1373,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6182020353,Sweden,SE,57.52441,12.14361,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6183198340,Netherlands,NL,52.7,4.8,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6183213204,Netherlands,NL,51.8,5.85,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6183575000,Netherlands,NL,53.0,6.05,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6184276222,Belgium,BE,50.83484,4.28513,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6184278246,Belgium,BE,51.05708,3.73931,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6184959133,Germany,DE,48.904555,9.207892,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6185873374,Austria,AT,46.828022,12.821847,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6186827353,Netherlands,NL,51.95,4.3,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6188407987,Germany,DE,50.584402,8.67983,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6260356326,Australia,AU,-34.082555,151.127036,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6273383459,Germany,DE,50.932122,11.532583,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6352805121,United Kingdom of Great Britain and Northern Ireland,GB,52.70644,1.235936,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6441743473,Austria,AT,47.953453,16.726653,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6479944594,Italy,IT,44.366329,8.187693,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527659417,Switzerland,CH,46.86497,9.5045,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527901575,Switzerland,CH,47.15324,7.20788,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528068133,Switzerland,CH,47.19391,8.46133,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528073456,Switzerland,CH,46.56428,6.42784,2026,3,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6186963348,Belgium,BE,51.05528,3.75246,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6194232281,Belgium,BE,51.12084,2.64381,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6194233125,Belgium,BE,51.21384,4.26641,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6194236001,Belgium,BE,50.7612,5.7567,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6195108824,Germany,DE,50.856419,6.156889,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6195231052,Germany,DE,49.992664,7.861371,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6196445826,Sweden,SE,59.84454,17.60958,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6213780815,Belgium,BE,50.87825,2.69692,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6213783889,Belgium,BE,50.85873,4.3004,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6213785726,Belgium,BE,50.86471,4.71644,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6227761456,France,FR,43.898741,6.520635,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6229499360,Sweden,SE,56.42277,12.87825,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6229820421,Sweden,SE,59.84452,17.60957,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6234654779,Ecuador,EC,-2.920293,-79.024787,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6235847308,Germany,DE,49.840069,8.970567,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6235997036,France,FR,43.889933,5.436335,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6238329320,Sweden,SE,58.9452,17.5392,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6251016322,Belgium,BE,50.95756,3.02503,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6251538149,Austria,AT,46.940501,15.938325,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6251542239,Switzerland,CH,47.123732,6.9246,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6252000953,Colombia,CO,7.127366,-73.116776,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6252565977,United Kingdom of Great Britain and Northern Ireland,GB,53.94507,-1.058606,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6252870422,Czechia,CZ,50.080484,14.466747,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6253045556,Austria,AT,46.98,15.45,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6253240114,Germany,DE,47.71698,7.655371,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6255347422,Sweden,SE,56.75981,16.57001,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6273946920,Austria,AT,48.365214,15.411844,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6320311871,France,FR,48.863408,5.44255,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6321079962,United Kingdom of Great Britain and Northern Ireland,GB,53.945101,-1.058638,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6334124615,Germany,DE,48.399944,11.840609,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6343390701,Austria,AT,47.797079,13.141864,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6431334482,Canada,CA,49.124008,-123.183205,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6431829813,Canada,CA,49.124008,-123.18322,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6498630288,France,FR,43.73077,6.975339,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6500387857,France,FR,43.801003,6.904474,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527627107,Switzerland,CH,47.5581,7.6047,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527671665,Switzerland,CH,47.15335,7.27381,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527901590,Switzerland,CH,46.9722,6.88012,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6527953095,Switzerland,CH,46.25389,7.34139,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6528088720,Switzerland,CH,47.10743,6.94458,2026,4,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6255608345,Sweden,SE,57.52441,12.14361,2026,5,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6255872301,Sweden,SE,59.84468,17.60956,2026,5,Lavandula angustifolia,HUMAN_OBSERVATION
+Lavandula angustifolia,Lavender,Herb,2927305,6260663312,Belgium,BE,50.82774,4.46329,2026,5,Lavandula angustifolia,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,6413591906,Morocco,MA,30.471083,-7.741871,2026,2,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,6527928730,Switzerland,CH,47.5581,7.6047,2026,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5832134559,Netherlands,NL,52.1,5.05,2025,9,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5840598339,Netherlands,NL,52.65,4.8,2025,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5840708761,Netherlands,NL,51.8,5.55,2025,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5840872313,Netherlands,NL,51.95,4.55,2025,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5901361911,Netherlands,NL,50.95,5.85,2025,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5903815824,Spain,ES,37.967333,-4.847364,2025,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,6171215107,Spain,ES,41.134748,0.657549,2025,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4870851717,Switzerland,CH,46.29854,7.73066,2024,4,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5005096923,Netherlands,NL,51.8,4.65,2024,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5005981877,Netherlands,NL,52.05,4.3,2024,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5076078310,Switzerland,CH,46.29787,7.92533,2024,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5110447306,Italy,IT,39.075268,16.513361,2024,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5110434395,Italy,IT,44.459883,8.666899,2024,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5918542195,Malta,MT,35.851903,14.383274,2024,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5110507266,Greece,GR,37.941349,23.694121,2024,12,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4018275801,Spain,ES,36.781339,-3.10928,2023,1,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4870550841,Switzerland,CH,47.10838,7.27395,2023,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5023179672,Morocco,MA,30.204798,-7.801236,2023,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109423388,Czechia,CZ,49.132867,16.648678,2023,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109491868,Italy,IT,44.792578,9.609388,2023,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4880830925,Netherlands,NL,52.3,4.9,2023,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5022725696,Germany,DE,52.090557,8.753611,2023,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5026739696,Germany,DE,50.126633,8.657827,2023,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5027751141,Germany,DE,52.090557,8.753611,2023,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109776266,Italy,IT,39.821886,15.859481,2023,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4853755451,Spain,ES,38.67,-0.48,2023,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4886433797,Netherlands,NL,52.45,6.05,2023,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109947133,Türkiye,TR,37.889844,40.272454,2023,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109973551,Greece,GR,37.909209,23.761494,2023,11,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109783203,Türkiye,TR,37.914996,40.28342,2023,12,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109973576,Greece,GR,38.028294,23.776449,2023,12,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3949355145,Italy,IT,40.42548,15.558612,2022,1,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3953980040,Italy,IT,42.370728,13.353222,2022,1,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,4442265495,Spain,ES,36.933797,-3.231746,2022,2,Crocus sativus,LIVING_SPECIMEN
+Crocus sativus,Saffron,Herb/Spice,2747430,5023074537,Germany,DE,54.480412,9.049816,2022,3,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3997893870,Spain,ES,41.316121,0.644813,2022,4,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,5109351456,Greece,GR,37.981922,23.741608,2022,6,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998982750,Italy,IT,45.717931,9.444624,2022,9,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3995442253,Netherlands,NL,51.8,4.15,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3996456344,Netherlands,NL,53.1,6.55,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3997479875,Netherlands,NL,51.9,4.45,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3997816078,Italy,IT,45.814539,8.70665,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3997865908,Italy,IT,44.74072,10.364262,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998203815,Italy,IT,40.784969,17.122807,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998346517,Italy,IT,41.817036,12.811905,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998363860,Italy,IT,45.699222,8.76794,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998394998,Italy,IT,44.913107,8.979498,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998404317,Italy,IT,45.073413,7.861537,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998405227,Spain,ES,40.437472,-3.153706,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998406405,Italy,IT,43.176371,12.288803,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998438486,Spain,ES,40.336432,-5.532557,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998493228,Spain,ES,41.994083,2.740567,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998507695,Italy,IT,42.447338,13.273743,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998507759,Slovakia,SK,48.525342,17.134875,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998509742,Spain,ES,40.736304,-3.620667,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998533867,Spain,ES,40.128795,-5.664025,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998547148,Spain,ES,40.526885,-3.923904,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998547630,Spain,ES,42.014281,-4.550803,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998558220,Italy,IT,42.558571,12.657023,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998574690,Spain,ES,41.130093,-3.228669,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998584206,Spain,ES,40.627627,-4.03373,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998606421,Italy,IT,45.598331,9.073556,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998611419,Spain,ES,40.357266,-4.322711,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998649576,Italy,IT,45.540611,9.311244,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998650738,Spain,ES,40.951904,-3.720033,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998665569,Spain,ES,38.763764,-2.094242,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998666015,Italy,IT,44.801224,8.535693,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998676387,Italy,IT,45.037716,7.46665,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998678799,Italy,IT,45.870622,8.69465,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998692170,Spain,ES,40.736304,-3.620667,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998705766,Spain,ES,41.525904,1.856801,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998710920,Slovakia,SK,48.159699,17.116401,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998757907,Italy,IT,44.596433,7.926064,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998795270,Italy,IT,45.362962,8.350388,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998841498,Italy,IT,44.737828,8.729705,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998860400,Spain,ES,41.497853,-5.807155,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998880137,Czechia,CZ,49.912431,14.590977,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998886101,Spain,ES,41.735046,1.800117,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998914135,Italy,IT,45.805817,9.830579,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998950523,Italy,IT,45.831665,9.047894,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998958666,Italy,IT,45.693639,9.287604,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998960652,Spain,ES,41.965939,2.618034,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998960740,Italy,IT,44.801424,8.535682,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998987246,Spain,ES,41.750912,2.12587,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3998987625,Italy,IT,45.756028,9.314958,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999014132,Italy,IT,43.667058,11.36247,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999038521,Spain,ES,41.645628,2.619901,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999049191,Italy,IT,43.067108,13.08381,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999059712,Italy,IT,45.668711,13.781963,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999060392,Italy,IT,45.857842,9.400413,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999087674,France,FR,42.520966,2.834353,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999107168,Spain,ES,42.546898,-3.345193,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999128052,Italy,IT,45.538721,8.755062,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999133371,Spain,ES,40.736271,-3.620634,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999136218,Spain,ES,42.684444,-2.925,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999157066,Italy,IT,45.654122,8.880531,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999157152,Spain,ES,41.207744,1.034215,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Crocus sativus,Saffron,Herb/Spice,2747430,3999165195,Spain,ES,42.964802,-2.755692,2022,10,Crocus sativus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938240301,United States of America,US,34.034763,-117.258713,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938300270,United States of America,US,29.362433,-98.469559,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938301192,United States of America,US,40.360747,-111.884147,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938352332,United States of America,US,29.442589,-98.364988,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938373621,United States of America,US,34.156283,-117.835258,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938472676,United States of America,US,29.884626,-95.431806,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5938493404,Australia,AU,-35.204503,138.485799,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,5994761114,Sweden,SE,59.82722,17.66247,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6043402037,Sweden,SE,56.34356,16.53134,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6129837892,United States of America,US,34.109111,-118.356072,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6129892350,United States of America,US,29.560374,-98.226343,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6129913690,Hungary,HU,47.052169,18.757329,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130033736,United States of America,US,33.242089,-116.389656,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130176046,United States of America,US,27.626307,-97.220923,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130216232,United States of America,US,30.222943,-97.768217,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130371459,Chile,CL,-36.746983,-72.477357,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130445591,United States of America,US,32.177822,-110.715806,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130460418,United States of America,US,33.180057,-97.200068,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130477955,United States of America,US,33.608311,-116.436551,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130547538,Mexico,MX,25.631517,-100.273903,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130592464,United States of America,US,34.144507,-118.190618,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130603995,United States of America,US,34.142175,-118.457725,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130721933,United States of America,US,26.364402,-97.991926,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130943202,United States of America,US,32.177712,-110.71595,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6130945832,United States of America,US,43.719475,-116.388274,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131017866,United States of America,US,34.173699,-118.473592,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131102602,United States of America,US,34.126625,-118.210967,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131126379,United States of America,US,27.711952,-97.327785,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131204326,Chile,CL,-36.750585,-72.4588,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131570712,United States of America,US,33.701027,-118.009239,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6131590066,United States of America,US,42.434733,-112.901092,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133044765,Mexico,MX,25.797169,-100.330347,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133046730,New Zealand,NZ,-37.857445,175.681137,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133069909,United States of America,US,33.871083,-117.491445,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133131773,United States of America,US,33.100147,-96.766137,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133165729,Spain,ES,28.12358,-15.44948,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133189986,United States of America,US,33.708197,-117.630716,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133198182,Chile,CL,-36.782364,-72.440899,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133211665,Russian Federation,RU,55.137508,60.137085,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133215090,Colombia,CO,7.679613,-76.761588,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133225606,United States of America,US,27.649913,-97.503194,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133351966,Mexico,MX,25.673997,-100.280922,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133390768,Mexico,MX,27.414422,-110.132997,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133470583,United States of America,US,40.556336,-111.979664,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147395978,United States of America,US,29.764945,-95.573738,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147490248,Chile,CL,-36.631201,-72.072852,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6159189717,United States of America,US,34.138351,-117.938428,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6159757509,Israel,IL,32.538361,34.930055,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170830139,Brazil,BR,-29.655139,-53.594607,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170842253,United States of America,US,29.696016,-98.082606,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170857312,United States of America,US,32.637006,-116.268378,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170860878,United States of America,US,34.274387,-118.331925,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170874018,United States of America,US,34.156192,-117.835633,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170879873,United States of America,US,33.694555,-111.797811,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170899043,United States of America,US,34.126647,-118.210953,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170919357,United States of America,US,33.013939,-116.715033,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170919360,United States of America,US,32.557209,-117.085121,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6170966087,United States of America,US,34.267947,-118.398422,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171019285,United States of America,US,34.126595,-118.210962,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171075804,United States of America,US,34.212822,-118.209328,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171100184,United States of America,US,33.958717,-117.277139,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171104226,United States of America,US,34.119131,-118.505775,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171186634,Brazil,BR,-27.597584,-52.343041,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171190606,Philippines,PH,7.124814,125.652342,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171218171,United States of America,US,38.539048,-121.763951,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171229248,United States of America,US,34.1641,-117.523225,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171272983,Mexico,MX,23.740722,-99.159569,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171314398,Mexico,MX,24.164112,-110.314212,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171331415,United States of America,US,34.156236,-117.835663,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171351428,United States of America,US,34.143702,-117.954376,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171430803,United States of America,US,33.242103,-116.389623,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6171432470,United States of America,US,33.982103,-117.290087,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6179065524,United States of America,US,34.209325,-118.145905,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6253091463,United States of America,US,33.705685,-112.191983,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6317944897,Australia,AU,-35.427969,149.07408,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6353046031,Brazil,BR,-25.383556,-51.481985,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6422932403,United States of America,US,34.026878,-117.405997,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6430830955,United States of America,US,34.401201,-118.522592,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6441897932,Mexico,MX,25.674317,-100.281534,2026,1,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6133071841,United States of America,US,33.637283,-117.797438,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147165807,United States of America,US,34.179698,-118.472038,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147175722,United States of America,US,34.133903,-118.166746,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147193320,United States of America,US,33.814638,-117.858712,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147210916,United States of America,US,33.648963,-117.567375,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147219763,Puerto Rico,PR,18.405667,-66.065341,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147237564,United States of America,US,40.359794,-111.880047,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147254430,United States of America,US,37.671028,-121.760861,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147294306,United States of America,US,40.361371,-111.881012,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147309716,United States of America,US,34.107483,-118.410112,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147378011,United States of America,US,34.070972,-118.562522,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147383080,Mexico,MX,32.441378,-116.905039,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147394641,Brazil,BR,-9.954856,-67.865048,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147401821,Mexico,MX,25.792688,-100.328163,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147407184,United States of America,US,34.117789,-118.413033,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147413419,United States of America,US,40.834893,-112.892728,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147476398,United States of America,US,34.19345,-117.195217,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147513315,United States of America,US,34.249475,-118.254265,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147552771,Chile,CL,-36.615753,-72.107376,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147607169,Brazil,BR,-15.818344,-47.912937,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Helianthus annuus,Sunflower,Crop,9206251,6147621771,Mexico,MX,25.708081,-100.370088,2026,2,Helianthus annuus,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6334611523,India,IN,26.914606,75.731901,2026,1,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6185447613,Australia,AU,-29.779662,151.344557,2026,3,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6213243602,Netherlands,NL,52.0,5.5,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6227468486,Netherlands,NL,52.15,4.5,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6227689573,Netherlands,NL,51.4,5.5,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6227730358,Netherlands,NL,51.45,5.7,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6235174924,New Zealand,NZ,-36.656034,174.594298,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6250989335,Belgium,BE,51.11225,4.11067,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6251046322,Belgium,BE,51.36084,4.86846,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6251060311,Belgium,BE,51.39034,4.84508,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6251077359,Belgium,BE,50.96433,4.61744,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6251113316,Belgium,BE,51.15682,5.38752,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344061161,Netherlands,NL,52.25,6.15,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6527768435,Switzerland,CH,46.25314,7.0172,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6527773898,Switzerland,CH,46.25314,7.0172,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6528158950,Switzerland,CH,47.15335,7.27381,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6580660329,Belgium,BE,51.08694,5.72229,2026,4,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6251005340,Belgium,BE,51.08958,4.36766,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260641318,Belgium,BE,51.01828,4.72018,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260644341,Belgium,BE,50.76648,3.61947,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260680301,Belgium,BE,50.82677,4.43939,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260680303,Belgium,BE,50.73452,4.02752,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260704333,Belgium,BE,51.14709,4.82465,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260745311,Belgium,BE,50.82688,4.70161,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260782318,Belgium,BE,51.01828,4.72018,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260796303,Belgium,BE,50.7665,4.03541,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260803308,Belgium,BE,50.98003,4.90323,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6260827314,Belgium,BE,51.0184,4.72024,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6273329907,Hong Kong,HK,22.308059,114.228214,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6315379313,Belgium,BE,50.82085,3.56315,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6315382341,Belgium,BE,50.9737,3.13982,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6315396331,Belgium,BE,51.20316,5.07785,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6315498312,Belgium,BE,51.08959,4.36773,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6320598649,Germany,DE,51.613333,8.514642,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328314306,Belgium,BE,50.98086,4.56322,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328325314,Belgium,BE,51.20312,5.07793,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328376310,Belgium,BE,51.0775,3.94656,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328430311,Belgium,BE,50.86198,3.61377,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328500328,Belgium,BE,50.84496,3.22239,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6328552302,Belgium,BE,51.33204,4.37574,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6333862453,United Kingdom of Great Britain and Northern Ireland,GB,52.480376,-0.697179,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6334149492,Germany,DE,52.681987,9.72565,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6335009544,Czechia,CZ,48.749028,16.150421,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6338064649,Norway,NO,59.631021,10.716021,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6338137510,Norway,NO,59.624272,10.715769,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341751758,Netherlands,NL,51.85,5.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341760877,Netherlands,NL,52.25,6.15,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341807662,Germany,DE,51.408694,7.165583,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341850033,Netherlands,NL,53.2,6.25,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341881025,Netherlands,NL,51.9,6.0,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6341972186,Netherlands,NL,52.05,4.45,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342026067,Netherlands,NL,51.95,5.7,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342036217,Netherlands,NL,52.05,4.3,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342039283,Netherlands,NL,52.2,5.45,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342067637,Netherlands,NL,52.05,5.35,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342089757,Netherlands,NL,51.95,5.65,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342216309,Netherlands,NL,51.3,5.75,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342334625,Netherlands,NL,52.0,4.4,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342357331,Netherlands,NL,53.15,5.5,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342439755,Netherlands,NL,51.3,5.75,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342536584,Netherlands,NL,51.55,5.2,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342645380,Netherlands,NL,52.0,4.7,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342696758,Netherlands,NL,50.85,5.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342752449,Netherlands,NL,53.2,6.3,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6342831159,Netherlands,NL,52.15,6.85,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343208822,Netherlands,NL,52.55,5.9,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343317510,Netherlands,NL,51.3,5.75,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343317665,Netherlands,NL,51.55,5.2,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343354829,Netherlands,NL,52.3,5.0,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343389668,Netherlands,NL,51.5,5.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343449332,Netherlands,NL,52.2,6.25,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343499986,Netherlands,NL,52.25,6.15,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343574351,Netherlands,NL,52.4,4.65,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6343781967,Netherlands,NL,52.5,4.95,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344010159,Netherlands,NL,52.15,6.0,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344079750,Netherlands,NL,51.25,5.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344083933,Netherlands,NL,51.55,5.1,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344166345,Netherlands,NL,52.0,5.1,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344220129,Netherlands,NL,52.95,6.3,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344228054,Netherlands,NL,52.0,4.15,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344284519,Netherlands,NL,52.05,5.35,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344391016,Netherlands,NL,51.85,5.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344468396,Netherlands,NL,52.65,4.8,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344577959,Netherlands,NL,52.2,6.05,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344630618,Netherlands,NL,52.95,4.75,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344710529,Netherlands,NL,52.1,5.1,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344732542,Netherlands,NL,51.5,5.5,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344795686,Netherlands,NL,53.2,6.25,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344857092,Netherlands,NL,51.55,4.9,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344890018,Netherlands,NL,52.35,5.2,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344898044,Netherlands,NL,52.0,4.4,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344909207,Netherlands,NL,52.15,5.75,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344924026,Netherlands,NL,52.85,6.3,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344938624,Netherlands,NL,51.75,5.6,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344940000,Netherlands,NL,51.55,4.95,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6344946970,Netherlands,NL,52.75,6.55,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6345041612,Netherlands,NL,51.75,5.6,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6346142335,Belgium,BE,51.13477,3.65712,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6346146312,Belgium,BE,50.90939,3.86752,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Fagopyrum esculentum,Buckwheat,Crop,2889373,6346161333,Belgium,BE,51.10641,4.53654,2026,5,Fagopyrum esculentum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,5936629486,Israel,IL,33.085685,35.653143,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,5938156515,Bolivia (Plurinational State of),BO,-21.444089,-65.720822,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,5938163153,Japan,JP,35.011792,135.765065,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,5938204326,United States of America,US,28.418508,-81.583047,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6129920692,Brazil,BR,-23.546578,-46.697887,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6129982578,New Zealand,NZ,-37.806528,175.300583,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6129993414,Türkiye,TR,38.468062,28.137062,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130095403,Algeria,DZ,36.719681,3.053086,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130145546,China,CN,31.253235,120.508938,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130402840,United Arab Emirates,AE,25.597095,56.146514,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130413315,French Polynesia,PF,-8.945088,-140.163583,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130449326,Singapore,SG,1.395842,103.914623,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130552512,Italy,IT,40.805969,14.34634,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130600153,Thailand,TH,18.746578,98.939499,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130766215,Barbados,BB,13.069905,-59.559324,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130950959,China,CN,31.254669,120.504564,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6130965569,India,IN,28.680153,77.224602,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131029458,Australia,AU,-37.888632,145.090858,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131061576,India,IN,17.445653,78.497162,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131086444,Croatia,HR,43.377103,16.521794,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131102226,Cambodia,KH,13.10622,103.200417,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131211394,United States of America,US,36.078428,-115.00202,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131276340,Spain,ES,41.54517,1.873999,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131316851,Spain,ES,37.373097,-5.987887,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131324968,Barbados,BB,13.145154,-59.616386,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131400209,Spain,ES,28.152963,-17.199501,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131468386,Singapore,SG,1.395902,103.91484,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131497898,Brazil,BR,-23.665525,-46.524247,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131531159,United Arab Emirates,AE,25.227102,55.324727,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131563965,Brazil,BR,-29.429237,-52.229015,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131616771,Ecuador,EC,-2.21932,-80.230011,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131638649,"Tanzania, United Republic of",TZ,-6.203097,39.534408,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131666935,Brazil,BR,-18.379792,-52.669468,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6131684706,Barbados,BB,13.225798,-59.587287,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133034709,"Tanzania, United Republic of",TZ,-3.400013,36.739905,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133097820,India,IN,13.617148,79.394952,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133111326,Brazil,BR,-29.374214,-52.041138,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133166421,France,FR,43.632071,3.864426,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133295900,India,IN,13.61583,79.395343,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133447553,India,IN,13.615661,79.395245,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133505657,India,IN,13.618686,79.395402,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133542223,Brazil,BR,-21.694189,-41.036385,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147352076,Dominican Republic,DO,19.326291,-69.545469,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147393077,Türkiye,TR,36.683941,35.154274,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147650171,Brazil,BR,-8.356437,-36.701843,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159156237,Spain,ES,42.24635,2.644317,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159311972,Ecuador,EC,-0.163613,-78.409103,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159333476,New Zealand,NZ,-37.806837,175.30278,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159668485,Costa Rica,CR,9.736659,-82.853831,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159697135,India,IN,13.61867,79.395193,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159730036,Israel,IL,32.52873,35.105968,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159730799,Israel,IL,31.671105,34.671951,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159734026,Israel,IL,32.540238,34.93089,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159735131,Israel,IL,31.669875,34.668942,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159735132,Israel,IL,31.686375,34.701353,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159739078,Israel,IL,31.683333,34.733546,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159747704,Israel,IL,32.500199,34.974894,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159749210,Israel,IL,31.695149,34.663471,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159751658,Israel,IL,31.703026,34.732719,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159759394,Israel,IL,31.686958,34.665048,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6171349449,Kenya,KE,-0.616667,37.533333,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6178341331,Australia,AU,-34.300369,148.503372,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6179318251,Türkiye,TR,36.065159,35.994078,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6187947845,Singapore,SG,1.430974,103.777275,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6188015295,Cyprus,CY,34.845107,32.42137,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6188593940,Ecuador,EC,-0.203021,-78.415054,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6321107957,India,IN,18.435677,79.11092,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6352294183,Brazil,BR,-26.783772,-48.699008,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6352432419,Brazil,BR,-26.783862,-48.699013,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6352718104,Brazil,BR,-25.387705,-51.46746,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539194857,India,IN,9.18332,76.67605,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539212315,India,IN,19.35413,83.78744,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539248232,India,IN,9.18332,76.67605,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539283850,India,IN,12.51732,74.9696,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539285429,India,IN,9.14136,76.58857,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539318777,India,IN,11.30555,75.76186,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539329242,India,IN,28.50922,77.41354,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539359518,India,IN,9.14136,76.58857,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539421964,India,IN,19.35408,83.78765,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539448749,India,IN,10.08806,76.31597,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539482884,India,IN,11.35956,75.75858,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539492330,India,IN,19.35408,83.78765,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539505490,India,IN,28.50922,77.41354,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539551098,India,IN,25.81072,83.82257,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539582848,India,IN,28.50922,77.41354,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539589058,India,IN,9.14136,76.58857,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539631218,India,IN,9.18332,76.67605,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539654758,India,IN,9.14136,76.58857,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539683653,India,IN,11.35956,75.75858,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539720833,India,IN,9.14136,76.58857,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539765113,India,IN,19.35413,83.78744,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6539766877,India,IN,9.18332,76.67605,2026,1,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6133081003,Ecuador,EC,-0.269267,-78.470475,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147262898,India,IN,26.995487,75.869567,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147292016,"Tanzania, United Republic of",TZ,-3.382742,34.867757,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147377962,Australia,AU,-35.206678,138.509886,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6147591208,India,IN,26.82828,75.819855,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159159702,Morocco,MA,30.90708,-6.879854,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159171706,Australia,AU,-33.89623,151.145643,2026,2,Punica granatum,HUMAN_OBSERVATION
+Punica granatum,Pomegranate,Fruit tree,5420901,6159192890,United States of America,US,27.653453,-97.40657,2026,2,Punica granatum,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5937963283,Germany,DE,50.70583,11.289269,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5937964669,Germany,DE,49.334885,8.544188,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5937967862,Germany,DE,50.804485,11.010292,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938117523,United States of America,US,39.987338,-75.688508,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938179355,France,FR,48.747301,7.615283,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938280788,France,FR,48.483777,7.466603,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938307332,Italy,IT,45.853537,8.797842,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938373594,Poland,PL,49.752686,19.623529,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938401061,New Zealand,NZ,-42.594871,172.697095,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5938657974,Germany,DE,53.554247,9.821867,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5939202503,Sweden,SE,56.74055,12.86053,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5939224159,Sweden,SE,56.09263,12.6456,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5939315009,Norway,NO,58.972299,9.833444,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5939318732,Norway,NO,58.082618,7.8129,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5939376663,Norway,NO,59.817875,10.488298,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5956002151,Denmark,DK,55.815505,12.522185,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5958983375,Germany,DE,52.946724,10.561037,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5958985385,Germany,DE,52.954266,10.562053,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5959004303,Germany,DE,48.922218,9.609389,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5959004798,Germany,DE,48.908081,9.593922,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5959008243,Germany,DE,48.876431,9.600506,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5959015492,Germany,DE,48.911446,9.610634,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994777838,Sweden,SE,59.81877,17.66405,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994787114,Sweden,SE,57.61887,18.26914,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994804713,Sweden,SE,55.88852,13.63998,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994820159,Sweden,SE,56.67552,16.24716,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994821034,Sweden,SE,59.8234,17.66675,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994829146,Sweden,SE,57.69471,12.05259,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994855929,Sweden,SE,58.3314,11.89519,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5994889790,Sweden,SE,56.77743,15.89847,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5995450333,Denmark,DK,55.849225,11.529362,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,5995452029,Denmark,DK,55.766823,12.474589,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6003691845,Germany,DE,51.512909,7.018762,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6003697371,Germany,DE,51.544735,6.696167,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6043331680,Sweden,SE,56.63794,16.6629,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6043364849,Sweden,SE,57.44855,12.06845,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6118676668,Germany,DE,47.60295,7.67133,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6118697337,Switzerland,CH,46.56428,6.42784,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6118773501,Switzerland,CH,46.56484,6.49305,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6118887055,Switzerland,CH,46.56428,6.42784,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6119119048,Switzerland,CH,46.56484,6.49305,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6119153672,Switzerland,CH,46.56484,6.49305,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6129679080,Germany,DE,49.344585,9.053421,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6129820066,Austria,AT,48.206058,16.518461,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6129903233,Austria,AT,47.998417,17.098889,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130125509,Austria,AT,47.3469,16.332688,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130168352,United Kingdom of Great Britain and Northern Ireland,GB,52.731792,-1.740653,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130413887,Austria,AT,46.849405,15.866012,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130444678,Austria,AT,47.348883,16.330203,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130613998,Austria,AT,47.560047,16.615812,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130837973,Austria,AT,47.34522,16.327325,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130838315,United States of America,US,43.19221,-77.513137,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130853871,Belgium,BE,50.625952,3.778469,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6130864564,Austria,AT,48.02478,16.866328,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6131033619,Austria,AT,48.018043,16.785097,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6131237514,New Zealand,NZ,-42.516492,172.388383,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6131263880,United States of America,US,38.988587,-77.248153,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6131361088,United Kingdom of Great Britain and Northern Ireland,GB,51.494945,-2.611472,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6131587685,United States of America,US,40.092713,-75.469434,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6133001829,Sweden,SE,59.83304,17.6019,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6133268963,Canada,CA,43.595992,-79.627106,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6133601640,Italy,IT,45.591533,9.692412,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6147663827,Switzerland,CH,46.167011,8.776472,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150318375,Netherlands,NL,52.55,5.6,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150362159,Netherlands,NL,51.7,4.7,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150367227,Netherlands,NL,53.25,6.1,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150655945,Netherlands,NL,52.45,6.05,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150774348,Netherlands,NL,51.8,5.9,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150864146,Netherlands,NL,51.65,5.6,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150873767,Netherlands,NL,52.15,6.35,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6150996474,Netherlands,NL,51.5,4.75,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151236856,Netherlands,NL,52.45,6.05,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151352873,Netherlands,NL,51.45,5.55,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151355057,Netherlands,NL,51.45,5.0,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151400107,Netherlands,NL,50.8,5.65,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151431194,Netherlands,NL,52.35,6.45,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151436439,Netherlands,NL,52.05,5.15,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151446784,Netherlands,NL,51.85,4.65,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151472600,Netherlands,NL,51.6,4.85,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151663915,Netherlands,NL,52.3,4.8,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151682255,Netherlands,NL,52.2,6.5,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151696437,Netherlands,NL,52.0,5.6,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151826288,Netherlands,NL,52.05,5.15,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6151837157,Netherlands,NL,52.15,6.35,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6152073881,Netherlands,NL,52.1,5.2,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6152276384,Netherlands,NL,50.8,5.8,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6152312712,Netherlands,NL,51.65,5.2,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6176645507,Norway,NO,59.261247,10.427994,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6177787315,United Kingdom of Great Britain and Northern Ireland,GB,52.538321,-2.495343,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6177790048,United Kingdom of Great Britain and Northern Ireland,GB,52.731792,-1.740653,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6183106719,Austria,AT,47.81578,13.240271,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6185448577,Austria,AT,48.199459,14.557919,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6186785870,Netherlands,NL,52.25,6.2,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6248255615,Austria,AT,47.81578,13.240271,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6261358351,Belarus,BY,52.111406,26.102473,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6305709548,United Kingdom of Great Britain and Northern Ireland,GB,52.781109,-1.519609,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6354996471,Sweden,SE,59.55884,16.23983,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6413242507,New Zealand,NZ,-44.937772,168.82857,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6527565380,Switzerland,CH,47.45866,8.93063,2026,1,Prunus avium,HUMAN_OBSERVATION
+Prunus avium,Cherry,Fruit tree,3020791,6527574125,Switzerland,CH,47.46029,8.79804,2026,1,Prunus avium,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,5938212431,Brazil,BR,-23.680799,-46.599094,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,5938680840,Mexico,MX,24.809045,-107.394012,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6129824355,Mexico,MX,24.815788,-107.358014,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6129873402,United States of America,US,27.494838,-82.685953,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6129921247,Guatemala,GT,14.550195,-90.728786,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130042424,United States of America,US,24.876474,-80.699408,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130471146,United States of America,US,25.093016,-80.437157,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130557597,United States of America,US,26.02388,-81.734876,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130807594,United States of America,US,25.13682,-80.949037,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130810031,Mexico,MX,17.634081,-101.552715,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130817301,Puerto Rico,PR,17.966208,-67.178772,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130825599,United States of America,US,25.136808,-80.949045,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130880603,United States of America,US,25.125539,-80.407503,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130920081,United States of America,US,25.136358,-80.952255,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130939162,Mexico,MX,20.542533,-88.677187,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6130998977,United States of America,US,25.136822,-80.949019,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6131120405,Mexico,MX,18.478859,-99.154496,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6131190594,Mexico,MX,21.541899,-88.056766,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6131337520,Puerto Rico,PR,17.95385,-67.201478,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6131374728,United States of America,US,27.494781,-82.685806,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133071011,Nicaragua,NI,12.148067,-86.162233,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133307829,Mexico,MX,15.669903,-96.576233,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133396213,Mexico,MX,16.773244,-93.098148,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133413839,United States of America,US,27.759126,-97.445723,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6147403211,United States of America,US,25.13645,-80.948533,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6147416331,Mexico,MX,21.210095,-86.732107,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163130695,Puerto Rico,PR,17.97168,-67.211892,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163232721,Mexico,MX,15.859703,-97.084044,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163447099,Brazil,BR,-22.811389,-43.590833,2026,1,Gossypium hirsutum,PRESERVED_SPECIMEN
+Gossypium hirsutum,Cotton,Crop,3152661,6178318528,Virgin Islands (U.S.),VI,18.328055,-64.913322,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178728084,Mexico,MX,16.169888,-95.185037,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6184952185,Mexico,MX,21.118318,-86.83069,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6252645102,Bahamas,BS,24.983953,-77.455194,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6253145333,United States of America,US,24.877763,-80.697894,2026,1,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133035230,United States of America,US,25.137308,-80.951289,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6133116443,"Bonaire, Sint Eustatius and Saba",BQ,12.161278,-68.2808,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6159370555,Puerto Rico,PR,18.133275,-66.489266,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6162932062,Mexico,MX,14.72248,-92.39778,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163130757,Puerto Rico,PR,18.13783,-65.460323,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163185925,United States of America,US,27.49495,-82.686112,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6163213997,United States of America,US,27.49567,-82.6864,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6171064702,United States of America,US,26.431392,-82.086236,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6171122568,United States of America,US,27.49567,-82.686401,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6171273101,United States of America,US,25.177346,-80.904909,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178329586,Mexico,MX,27.280771,-112.897762,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178516015,Gambia,GM,13.593955,-16.447627,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178573528,Costa Rica,CR,8.563155,-83.379067,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6188420064,United States of America,US,24.720428,-81.075325,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6334228905,Mexico,MX,20.951014,-89.564506,2026,2,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178344674,United States of America,US,24.719284,-81.075417,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178373058,Puerto Rico,PR,17.972667,-66.673967,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178516826,Martinique,MQ,14.443753,-60.8783,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178541078,Costa Rica,CR,9.971017,-85.220229,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6178831075,Martinique,MQ,14.474992,-60.961473,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6179011600,Puerto Rico,PR,17.972667,-66.673967,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6179151135,Gambia,GM,13.483893,-16.664293,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6179178948,Costa Rica,CR,10.36078,-85.460188,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185077856,Puerto Rico,PR,18.032911,-67.188408,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185178198,Panama,PA,8.89367,-79.78149,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185315541,United States of America,US,24.718416,-81.075073,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185607016,Puerto Rico,PR,17.957838,-67.201675,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185645034,India,IN,18.198285,79.411998,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185699801,Puerto Rico,PR,17.977876,-66.609564,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6185862844,Australia,AU,-27.080381,150.194611,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6186146437,United States of America,US,25.732694,-80.385783,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6188206388,Mexico,MX,23.300726,-106.438393,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6195694864,Puerto Rico,PR,17.956038,-67.199608,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6236161234,Mexico,MX,18.345712,-97.245933,2026,3,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6188206618,Mexico,MX,26.016392,-111.344855,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6195437995,United States of America,US,27.479269,-82.774368,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6195801990,United States of America,US,27.49578,-82.686373,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6196028403,Virgin Islands (U.S.),VI,18.369358,-64.950988,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6235001069,United States of America,US,27.4958,-82.686208,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6235766128,Mexico,MX,21.115659,-86.832636,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6235819483,Puerto Rico,PR,17.945745,-66.965453,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6236175014,United States of America,US,27.53493,-82.626975,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6236296013,Mexico,MX,20.703193,-90.452209,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6236442803,Mexico,MX,20.650583,-105.226212,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6252129779,Cayman Islands,KY,19.371555,-81.37922,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6252450830,Mexico,MX,20.707766,-87.102805,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6273198203,Mexico,MX,25.998938,-111.343378,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6273707784,Mexico,MX,24.815823,-107.358041,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6273781854,Mexico,MX,26.022752,-111.365493,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6273803753,Curaçao,CW,12.184103,-68.935865,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6273823838,Mexico,MX,24.774448,-107.355949,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6274097490,Mexico,MX,24.774565,-107.355788,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6274147695,Curaçao,CW,12.13659,-68.843011,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6274307346,Curaçao,CW,12.19783,-69.051156,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6398802471,United States of America,US,25.143628,-80.919894,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6423097939,Mexico,MX,24.827248,-107.386328,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6441049789,Mexico,MX,21.299929,-89.417485,2026,4,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6252375905,Bahamas,BS,24.118678,-74.464813,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6320093108,Saint Kitts and Nevis,KN,17.300363,-62.689817,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6320785892,United States of America,US,27.494808,-82.685821,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6320954947,Mexico,MX,18.920393,-99.236061,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6333938743,Mexico,MX,19.153849,-103.724633,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6352607822,Puerto Rico,PR,17.954204,-67.195601,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6352618501,Puerto Rico,PR,17.956272,-67.199172,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6352629590,Cayman Islands,KY,19.278512,-81.357292,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION
+Gossypium hirsutum,Cotton,Crop,3152661,6352733066,Mexico,MX,24.133306,-110.34526,2026,5,Gossypium hirsutum,HUMAN_OBSERVATION

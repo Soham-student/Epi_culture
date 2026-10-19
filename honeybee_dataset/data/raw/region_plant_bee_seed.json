@@ -1,0 +1,390 @@
+{
+  "species": {
+    "scientific_name": "Apis mellifera",
+    "common_name": "Western Honey Bee",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Apidae",
+    "genus": "Apis"
+  },
+  "regions": [
+    {
+      "continent": "Asia",
+      "country": "India",
+      "region": "Jammu and Kashmir",
+      "iso_country": "IN",
+      "iso_region": "IN-JK",
+      "latitude_approx": 34.08,
+      "longitude_approx": 74.8,
+      "climate_zone": "Humid subtropical / Alpine",
+      "known_subspecies": "Apis mellifera ligustica (introduced), Apis cerana (native coexist)",
+      "plants": [
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Almond", "scientific_name": "Prunus dulcis", "plant_type": "Nut tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Plum", "scientific_name": "Prunus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Peach", "scientific_name": "Prunus persica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Apricot", "scientific_name": "Prunus armeniaca", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Solai (Silk Cotton)", "scientific_name": "Bombax ceiba", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "False Acacia", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Mustard", "scientific_name": "Brassica juncea", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Lavender", "scientific_name": "Lavandula angustifolia", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Saffron", "scientific_name": "Crocus sativus", "plant_type": "Herb/Spice", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Kazakhstan",
+      "iso_country": "KZ",
+      "latitude_approx": 48.0,
+      "longitude_approx": 68.0,
+      "climate_zone": "Continental steppe",
+      "known_subspecies": "Apis mellifera caucasica / carnica (introduced)",
+      "plants": [
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Buckwheat", "scientific_name": "Fagopyrum esculentum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Forage Legumes", "scientific_name": "Trifolium / Medicago spp.", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Azerbaijan",
+      "iso_country": "AZ",
+      "latitude_approx": 40.14,
+      "longitude_approx": 47.58,
+      "climate_zone": "Semi-arid / Humid subtropical",
+      "known_subspecies": "Apis mellifera caucasica (native)",
+      "plants": [
+        {"common_name": "Pomegranate", "scientific_name": "Punica granatum", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Cherry", "scientific_name": "Prunus avium", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Plum", "scientific_name": "Prunus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Cotton", "scientific_name": "Gossypium hirsutum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Black Locust / Acacia", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Cyprus",
+      "iso_country": "CY",
+      "latitude_approx": 35.12,
+      "longitude_approx": 33.43,
+      "climate_zone": "Mediterranean",
+      "known_subspecies": "Apis mellifera cypria (native endemic)",
+      "plants": [
+        {"common_name": "Wild Thyme", "scientific_name": "Thymus capitatus", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Carob", "scientific_name": "Ceratonia siliqua", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Almond", "scientific_name": "Prunus dulcis", "plant_type": "Nut tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis / limon", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus camaldulensis", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Georgia",
+      "iso_country": "GE",
+      "latitude_approx": 42.32,
+      "longitude_approx": 43.36,
+      "climate_zone": "Continental / Humid subtropical",
+      "known_subspecies": "Apis mellifera caucasica (native)",
+      "plants": [
+        {"common_name": "Sweet Chestnut", "scientific_name": "Castanea sativa", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia spp.", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Black Locust / False Acacia", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Alpine Flora", "scientific_name": "Various alpine species", "plant_type": "Wildflower mix", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Iran",
+      "iso_country": "IR",
+      "latitude_approx": 32.0,
+      "longitude_approx": 53.0,
+      "climate_zone": "Arid / Semi-arid / Mediterranean",
+      "known_subspecies": "Apis mellifera meda (native)",
+      "plants": [
+        {"common_name": "Milkvetch", "scientific_name": "Astragalus spp.", "plant_type": "Legume/Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Jujube", "scientific_name": "Ziziphus jujuba", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis / limon", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Alfalfa", "scientific_name": "Medicago sativa", "plant_type": "Legume/Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Thyme", "scientific_name": "Thymus spp.", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Iraq",
+      "iso_country": "IQ",
+      "latitude_approx": 33.0,
+      "longitude_approx": 44.0,
+      "climate_zone": "Arid / Semi-arid",
+      "known_subspecies": "Apis mellifera syriaca (native)",
+      "plants": [
+        {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus camaldulensis", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Jujube", "scientific_name": "Ziziphus jujuba", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Clover", "scientific_name": "Trifolium spp.", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Saudi Arabia",
+      "iso_country": "SA",
+      "latitude_approx": 24.0,
+      "longitude_approx": 45.0,
+      "climate_zone": "Arid / Desert",
+      "known_subspecies": "Apis mellifera jemenitica (native)",
+      "plants": [
+        {"common_name": "Sidr / Jujube", "scientific_name": "Ziziphus spina-christi", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Acacia", "scientific_name": "Vachellia tortilis", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Prosopis", "scientific_name": "Prosopis juliflora", "plant_type": "Shrub/Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Tajikistan",
+      "iso_country": "TJ",
+      "latitude_approx": 39.0,
+      "longitude_approx": 71.0,
+      "climate_zone": "Continental / Alpine",
+      "known_subspecies": "Apis mellifera caucasica / carnica (introduced)",
+      "plants": [
+        {"common_name": "Cotton", "scientific_name": "Gossypium hirsutum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Alfalfa", "scientific_name": "Medicago sativa", "plant_type": "Legume/Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Clover", "scientific_name": "Trifolium spp.", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Almond", "scientific_name": "Prunus dulcis", "plant_type": "Nut tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Central Asia",
+      "country": "Turkey",
+      "iso_country": "TR",
+      "latitude_approx": 39.0,
+      "longitude_approx": 35.0,
+      "climate_zone": "Mediterranean / Continental",
+      "known_subspecies": "Apis mellifera anatoliaca (native), A. m. caucasica (native east)",
+      "plants": [
+        {"common_name": "Turkish Pine", "scientific_name": "Pinus brutia", "plant_type": "Tree (honeydew)", "pollination_type": "Honeydew honey source", "honey_type": "Honeydew monofloral"},
+        {"common_name": "Chestnut", "scientific_name": "Castanea sativa", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Rhododendron", "scientific_name": "Rhododendron ponticum", "plant_type": "Shrub", "pollination_type": "Entomophilous", "honey_type": "Monofloral (toxic grayanotoxin)"},
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis / limon", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Serbia",
+      "iso_country": "RS",
+      "latitude_approx": 44.0,
+      "longitude_approx": 21.0,
+      "climate_zone": "Continental",
+      "known_subspecies": "Apis mellifera carnica (native)",
+      "plants": [
+        {"common_name": "Black Locust", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Raspberry", "scientific_name": "Rubus idaeus", "plant_type": "Berry shrub", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Mexico",
+      "iso_country": "MX",
+      "latitude_approx": 23.6,
+      "longitude_approx": -102.5,
+      "climate_zone": "Tropical / Subtropical / Arid",
+      "known_subspecies": "Apis mellifera scutellata / ligustica (Africanized and European hybrids)",
+      "plants": [
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis / aurantifolia", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Avocado", "scientific_name": "Persea americana", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Mesquite", "scientific_name": "Prosopis spp.", "plant_type": "Tree/Shrub", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Coffee", "scientific_name": "Coffea arabica", "plant_type": "Shrub/Crop", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Squash", "scientific_name": "Cucurbita pepo", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Algeria",
+      "iso_country": "DZ",
+      "latitude_approx": 28.0,
+      "longitude_approx": 2.0,
+      "climate_zone": "Arid / Mediterranean",
+      "known_subspecies": "Apis mellifera intermissa (native)",
+      "plants": [
+        {"common_name": "Citrus", "scientific_name": "Citrus sinensis / limon", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus camaldulensis", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Thyme", "scientific_name": "Thymus vulgaris", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Rosemary", "scientific_name": "Salvia rosmarinus", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Jujube", "scientific_name": "Ziziphus lotus", "plant_type": "Shrub/Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Belarus",
+      "iso_country": "BY",
+      "latitude_approx": 53.7,
+      "longitude_approx": 27.97,
+      "climate_zone": "Continental",
+      "known_subspecies": "Apis mellifera mellifera (native)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Buckwheat", "scientific_name": "Fagopyrum esculentum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Clover", "scientific_name": "Trifolium repens", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "France",
+      "iso_country": "FR",
+      "latitude_approx": 46.23,
+      "longitude_approx": 2.21,
+      "climate_zone": "Oceanic / Mediterranean / Continental",
+      "known_subspecies": "Apis mellifera mellifera (native), A. m. ligustica (introduced)",
+      "plants": [
+        {"common_name": "Lavender", "scientific_name": "Lavandula angustifolia", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Chestnut", "scientific_name": "Castanea sativa", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Rosemary", "scientific_name": "Salvia rosmarinus", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Germany",
+      "iso_country": "DE",
+      "latitude_approx": 51.17,
+      "longitude_approx": 10.45,
+      "climate_zone": "Oceanic / Continental",
+      "known_subspecies": "Apis mellifera mellifera (native), A. m. carnica (introduced)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata / platyphyllos", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Black Locust", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Sunflower", "scientific_name": "Helianthus annuus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Ireland",
+      "iso_country": "IE",
+      "latitude_approx": 53.0,
+      "longitude_approx": -8.0,
+      "climate_zone": "Oceanic",
+      "known_subspecies": "Apis mellifera mellifera (native)",
+      "plants": [
+        {"common_name": "White Clover", "scientific_name": "Trifolium repens", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Blackberry / Bramble", "scientific_name": "Rubus fruticosus", "plant_type": "Berry shrub", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Hawthorn", "scientific_name": "Crataegus monogyna", "plant_type": "Tree/Shrub", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Ivy", "scientific_name": "Hedera helix", "plant_type": "Climbing plant", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Lithuania",
+      "iso_country": "LT",
+      "latitude_approx": 55.17,
+      "longitude_approx": 23.88,
+      "climate_zone": "Continental",
+      "known_subspecies": "Apis mellifera mellifera (native)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Buckwheat", "scientific_name": "Fagopyrum esculentum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Clover", "scientific_name": "Trifolium spp.", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Netherlands",
+      "iso_country": "NL",
+      "latitude_approx": 52.37,
+      "longitude_approx": 5.23,
+      "climate_zone": "Oceanic",
+      "known_subspecies": "Apis mellifera mellifera (native), A. m. carnica (introduced)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Pear", "scientific_name": "Pyrus communis", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Norway",
+      "iso_country": "NO",
+      "latitude_approx": 62.0,
+      "longitude_approx": 10.0,
+      "climate_zone": "Oceanic / Subarctic",
+      "known_subspecies": "Apis mellifera mellifera (native)",
+      "plants": [
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Raspberry", "scientific_name": "Rubus idaeus", "plant_type": "Berry shrub", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Blueberry / Bilberry", "scientific_name": "Vaccinium myrtillus", "plant_type": "Berry shrub", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Fireweed", "scientific_name": "Chamerion angustifolium", "plant_type": "Wildflower", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "White Clover", "scientific_name": "Trifolium repens", "plant_type": "Legume/Pasture", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Poland",
+      "iso_country": "PL",
+      "latitude_approx": 52.0,
+      "longitude_approx": 20.0,
+      "climate_zone": "Continental",
+      "known_subspecies": "Apis mellifera mellifera (native), A. m. carnica (introduced)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Buckwheat", "scientific_name": "Fagopyrum esculentum", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Linden", "scientific_name": "Tilia cordata", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Black Locust", "scientific_name": "Robinia pseudoacacia", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Spain",
+      "iso_country": "ES",
+      "latitude_approx": 40.0,
+      "longitude_approx": -4.0,
+      "climate_zone": "Mediterranean / Semi-arid",
+      "known_subspecies": "Apis mellifera iberiensis (native)",
+      "plants": [
+        {"common_name": "Orange Blossom", "scientific_name": "Citrus sinensis", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Rosemary", "scientific_name": "Salvia rosmarinus", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Thyme", "scientific_name": "Thymus vulgaris", "plant_type": "Herb", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus globulus", "plant_type": "Tree", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Almond", "scientific_name": "Prunus dulcis", "plant_type": "Nut tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "iso_country": "GB",
+      "latitude_approx": 54.0,
+      "longitude_approx": -2.0,
+      "climate_zone": "Oceanic",
+      "known_subspecies": "Apis mellifera mellifera (native), A. m. ligustica (introduced)",
+      "plants": [
+        {"common_name": "Rapeseed", "scientific_name": "Brassica napus", "plant_type": "Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Borage", "scientific_name": "Borago officinalis", "plant_type": "Herb/Crop", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Heather", "scientific_name": "Calluna vulgaris", "plant_type": "Shrub/Moorland", "pollination_type": "Entomophilous", "honey_type": "Monofloral"},
+        {"common_name": "Blackberry / Bramble", "scientific_name": "Rubus fruticosus", "plant_type": "Berry shrub", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"},
+        {"common_name": "Apple", "scientific_name": "Malus domestica", "plant_type": "Fruit tree", "pollination_type": "Entomophilous", "honey_type": "Polyfloral"}
+      ]
+    }
+  ]
+}
